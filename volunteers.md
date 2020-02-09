@@ -1,4 +1,8 @@
-+ Traslado de comida, equipos de audio, rollers, auspicios, etc.
+# Guía de Voluntariado
+
+Esta guía describe los distintos roles de apoyo dentro de la comunidad.
+
+
 
 
 + Aguarica
@@ -10,7 +14,7 @@
 
 - Crear, imprimir, cortar credenciales para los speakers.
 
-# Registro Fotográfico:
+# Registro Fotográfico
 + Recepción asistentes.
 + Pre ingreso.
 + Charlas.
@@ -21,3 +25,12 @@
 - Speakers.
 - Organizadores.
 - Speakers + Organizadores.
+
+# Registro de Asistentes
+
+# Diseño
+
++ Diseño de 
+
+# Logística
++ Traslado de comida, equipos de audio/video, rollers, productos de auspiciadores, etc.

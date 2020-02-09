@@ -1,20 +1,15 @@
 # Coffe Break
 
-## Galletas
+| Galletas                                               | Valor | Valor x Mayor |
+|--------------------------------------------------------|-------|---------------|
+| Cocktail (Selz)                                        | 550   | 500           |
+| Cracker TriplePack (Selz)                              | 930   | --            | 
+| Crackelet (Costa)                                      | 350   | 310           |
+| Crackelet Salvado (Costa)                              | 350   | 300           |
+| Galleta Chocolate/Coco/Limón/Mantequilla/Vino (Costa)  | 480   | 435           |
+| Galleta Coco/Limón/Mantequilla/Niza (Mckay)            | 530   | 490           |
+| Galleta Chocolate/Coco/Limón/Vino (DosEnUno)           | 450   | 400           |
 
-| Galletas                                     | Valor | Valor x Mayor |
-|----------------------------------------------|-------| ------------- |
-| Cocktail (Selz)                                        | 550   | 500 |
-| Cracker TriplePack (Selz)                              | 930   | --  | 
-| Crackelet (Costa)                                      | 350   | 310 |
-| Crackelet Salvado (Costa)                              | 350   | 300 |
-| Galleta Chocolate/Coco/Limón/Mantequilla/Vino (Costa)  | 480   | 435 |
-| Galleta Coco/Limón/Mantequilla/Niza (Mckay)            | 530   | 490 |
-| Galleta Chocolate/Coco/Limón/Vino (DosEnUno)           | 450   | 400 |
-
-
-
-## Bebestible
 
 | Bebestible                            | Valor | Valor x Mayor |
 |---------------------------------------|-------|---------------|
