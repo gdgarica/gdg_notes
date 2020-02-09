@@ -1,5 +1,30 @@
-# Biblia de la Comunidad GDG Arica
+<h1 align="center">Biblia de la Comunidad GDG Arica</h1>
  
+ 
+<div align="center">
+  <h3>
+  <a href="https://gdgarica.dev/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="#">
+      Frontend
+    </a>
+    <span> | </span>
+    <a href="#">
+      User Manual
+    </a>
+    <span> | </span>
+    <a href="">
+      Contributing
+    </a>
+    <span> | </span>
+    <a href="#">
+      Chat
+    </a>
+  </h3>
+</div>
+
  Esta guía recopila información en base a la experiencia obtenida por la comunidad en la realización de eventos.
 
 # Registro Fotográfico 📷
