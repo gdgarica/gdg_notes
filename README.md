@@ -8,35 +8,27 @@
     </a>
     <span> | </span>
     <a href="#">
-      Frontend
-    </a>
-    <span> | </span>
-    <a href="#">
-      User Manual
-    </a>
-    <span> | </span>
-    <a href="">
-      Contributing
-    </a>
-    <span> | </span>
-    <a href="#">
-      Chat
+      WhatsApp Group
     </a>
   </h3>
+</div>
+
+<div align="center">
+  <sub>An innovative software for education and learning. Built with ❤︎ by
+  <a href="https://twitter.com/yoshuawuyts">GDG Arica Community</a>
 </div>
 
  Esta guía recopila información en base a la experiencia obtenida por la comunidad en la realización de eventos.
 
 # Registro Fotográfico 📷
 
- Cosas que son un gran plus para el registro fotográfico.
-
+ Cosas que son un gran plus para el registro fotográfico:
 + Placas como Arduino/Raspberry PI u algún gadget tecnológico en el área de registro.
 + Credenciales (expositores, voluntarios y organizadores). 
 
-Otros.
-+ Para evitar estar comprando lanyards se puede pedir que estos sean devueltos al finalizar cada actividad, de esta manera solo se gastaría en la impresión de las credencial.
-+ Pedir cámara con un mínimo de dos dias de antelación.
+Recomendaciones:
++ Para evitar estar comprando lanyards se puede pedir que estos sean devueltos al finalizar cada actividad, de esta manera solo habrían costos en la impresión de las credenciales.
++ De momento la organización no cuenta con una cámara propia, con un mínimo de dos dias de antelación.
 
 
 # Streaming 🎬
@@ -47,19 +39,21 @@ Otros.
 + Es necesario grabar bien el audio para posteriormente realizar la edición de video.
 + En caso de realizar live streaming se recomienda utilizar el software OBS.
 
-# Coffe Break
+# Coffe Break ☕
 
+Recomendaciones:
 + Se recomienda buscar un lugar donde las personas encargadas del coffe no se deban quedar cuidando el lugar, en caso contrario es posible que estos se pierdan gran parte de las charlas.
-+ Es importante que los encargados del coffe vayan reponiendo este a medida que se vaya vaciando. Ha sucedido que algunos asistentes quedan sin comer y sobra comida, etc.
-
-
-# Comida 🍪
-
++ Es importante que los encargados del coffe vayan reponiendo este a medida que se va vaciando. Ha sucedido que algunos asistentes quedan sin comer y sobra comida. 
 + Las galletas del confinor rinden pero se recomienda no comprar muchas con crema ya que es más fácil que de hechen a perder. 
 + En el confinor hacen precio al mayor por 6 productos.
 
 
 # Cupos
 
-+ Se recomiendan poner una cantidad de cupos por sobre la capacidad real, esto debido a que probablemente algunos no queden en la lista y otros que estan en la lista no asistan o asistan por pequeños momentos.
++ Se recomienda establecer una cantidad de cupos por sobre la capacidad real, esto debido a que probablemente algunos no queden en la lista y otros que estan en la lista no asistan o asistan solo por pequeños momentos.
 
+# Reuniones GDG Latam
+
+Una vez al mes nuestro equipo organizador es parte de las reuniones con las comunidades GDG en latinoamerica y los coordinadores del programa GDG, en donde se discuten sponsorships para eventos, experiencias, entre otras cosas.
+
+<img src="https://i.imgur.com/NKnENaW.png">
