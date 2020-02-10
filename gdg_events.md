@@ -12,6 +12,10 @@ Opciones que proporciona Google a los organizadores.
 - Solo puedo pagar ticket.
 - No puedo pagar nada pero deseo asistir.
 
+# Google Next
+
+
+
 # Cloud Hero
 
 Juego en la nube que te desafía a crear una aplicación de principio a fin, usando varios servicios de GCP, desde GCS a GKE y Cloud Build. 
@@ -25,9 +29,11 @@ Tu puntaje será expuesto en el ranking global y la performance de cada uno ser�
 + Link oficial [Cloud Hero](https://cloudonair.withgoogle.com/events/app-dev/demo).
 
 <img src="https://i.imgur.com/dVBRB1j.png">
+<img src="https://i.imgur.com/9t88OjI.png">
+<img src="https://i.imgur.com/XvOoviK.png">
 
 # Cloud Study Jam
-
++ Tienen un enfoque establecido por Google. Por ejemplo, Actions on Google y Google Cloud.
 + Sponsorship: 500 USD
 + nos informen cuánto dinero estiman gastar, junto con una pequeña descripción de cómo planean hacerlo.
 
