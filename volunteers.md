@@ -34,3 +34,7 @@ Esta guía describe los distintos roles de apoyo dentro de la comunidad.
 
 # Logística
 + Traslado de comida, equipos de audio/video, rollers, productos de auspiciadores, etc.
+
+# Otros
+
+Tienes y te gustaría interfaces de audio, microfonos, camaras fotográficas o de video.
