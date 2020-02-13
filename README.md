@@ -4,21 +4,35 @@
 <div align="center">
   <h3>
   <a href="https://gdgarica.dev/">
-      Website
+      Web
+    </a>
+    <span> | </span>
+    <a href="https://www.meetup.com/es/gdgarica/">
+      Meetup
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/gdg_arica">
+      Twitter
     </a>
     <span> | </span>
     <a href="#">
-      WhatsApp Group
+      WhatsApp
+    </a>
+    <span> | </span>
+    <a href="http://bit.ly/slack_gdgarica">
+      Slack
     </a>
   </h3>
 </div>
 
 <div align="center">
-  <sub>An innovative software for education and learning. Built with ❤︎ by
-  <a href="https://twitter.com/yoshuawuyts">GDG Arica Community</a>
+  <sub>Guía que recopila información en base a la experiencia obtenida por la comunidad en la realización de eventos. Hecha con ❤︎ por la comunidad <a href="https://twitter.com/yoshuawuyts">GDG Arica</a>.
 </div>
 
- Esta guía recopila información en base a la experiencia obtenida por la comunidad en la realización de eventos.
+ Esta 
+
+# ¿Qué es GDG?
+Acrónimo de Google Developer Group.
 
 # Registro Fotográfico 📷
 
