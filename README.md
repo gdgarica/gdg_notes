@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/">
-    <img width=100% src="https://i.imgur.com/CXFDvK7.png">
+    <img width=100% src="https://i.imgur.com/oZpe7Q7.png">
   </a>
 </p>
 
@@ -31,7 +31,6 @@ Tenemos 4 maneras de participar:
   <br>Hecha con ❤︎ por la comunidad <a href="https://twitter.com/yoshuawuyts">GDG Arica</a>.
 </div>
 
- Esta 
 
 # ¿Qué es GDG?
 Acrónimo de Google Developer Group.
