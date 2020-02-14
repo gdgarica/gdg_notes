@@ -4,13 +4,38 @@
   </a>
 </p>
 
-<h1 align="center"> ⭐️ Guía de la Comunidad GDG Arica ⭐️ </h1>
- 
-<div align="center">
-GDG Arica es una comunidad de personas interesadas en aprender y compartir conocimiento sobre tecnología de información.
+<p align="center">
+  <a href="https://www.meetup.com/Angular-Medellin/members/">
+    <img src="https://img.shields.io/badge/👫-+100_miembros-1d2935.svg?style=flat" alt="">
+  </a>
+  <a href="#-contribuyentes-">
+    <img src="https://img.shields.io/badge/👫-+5_contribuyentes-1d2935.svg?style=flat" alt="">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="">
+  </a>
+  <a href="https://twitter.com/jdjuan">
+    <img src="https://img.shields.io/badge/🕴-+5_organizadores-1d2935.svg?style=flat" alt="">
+  </a>
+  <br><br>
+    <img width=70% src="assets/images/community3.jpg">
+  <br><br>
+  <a href="https://github.com/gdgarica/gdg_notes/stargazers">
+    <img src="https://img.shields.io/github/stars/gdgarica/gdg_notes.svg?style=social" alt="">
+  </a>
+  <a href="https://github.com/angular-medellin/meetup/watchers">
+    <img src="https://img.shields.io/github/watchers/gdgarica/gdg_notes.svg?style=social" alt="">
+  </a>
+  <a>
+    <img src="https://img.shields.io/twitter/follow/gdg_arica?label=follow">
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Conoce%20a%20la%20Comunidad%20GDG%20Arica!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/gdgarica/gdg_notes%20%F0%9F%A4%97
+">
+    <img src="https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social" alt="Tweet">
+  </a>
+</p>
 
-Tenemos 4 maneras de participar:
-</div>
+<h1 align="center"> ⭐️ Guía de la Comunidad GDG Arica ⭐️ </h1>
 
 <div align="center">
   <h3>
@@ -34,6 +59,10 @@ Tenemos 4 maneras de participar:
 
 # ¿Qué es GDG?
 Acrónimo de Google Developer Group.
+GDG Arica es una comunidad de personas interesadas en aprender y compartir conocimiento sobre tecnología de información.
+
+Tenemos 4 maneras de participar:
+
 
 # Registro Fotográfico 📷
 
