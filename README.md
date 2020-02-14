@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/">
-    <img src="https://i.imgur.com/qX7XbCL.jpg">
+    <img width=100% src="https://i.imgur.com/qQwU5kX.png">
   </a>
 </p>
 
@@ -14,25 +14,15 @@ Tenemos 4 maneras de participar:
 
 <div align="center">
   <h3>
-  <a href="https://gdgarica.dev/">
-      Web
-    </a>
+  <a href="https://gdgarica.dev/">Web</a>
     <span> | </span>
-    <a href="https://www.meetup.com/es/gdgarica/">
-      Meetup
-    </a>
+    <a href="https://www.meetup.com/es/gdgarica/">Meetup</a>
     <span> | </span>
-    <a href="https://twitter.com/gdg_arica">
-      Twitter
-    </a>
+    <a href="https://twitter.com/gdg_arica">Twitter</a>
     <span> | </span>
-    <a href="#">
-      WhatsApp
-    </a>
+    <a href="#">WhatsApp</a>
     <span> | </span>
-    <a href="http://bit.ly/slack_gdgarica">
-      Slack
-    </a>
+    <a href="http://bit.ly/slack_gdgarica">Slack</a>
   </h3>
 </div>
 
