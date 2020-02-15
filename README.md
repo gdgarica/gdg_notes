@@ -58,10 +58,7 @@
 
 
 # ¿Qué es un GDG?
-Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. GDG Arica es la rama local de esta comunidad.
-
-
-GDG Arica es una comunidad de personas interesadas en aprender y compartir conocimiento.
+Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. `GDG Arica` es la rama local de esta comunidad.
 
 # ¿Quiénes somos?
 GDG Arica es una comunidad geek, abierta y sin fines de lucro que comparte e intercambia conocimiento y experiencias acerca de tecnologías de Google y otras entidades relacionadas con el desarrollo web, desarrollo móvil, machine learning, inteligencia artificial, seguridad informática, cloud computing, entre otros.
@@ -69,46 +66,17 @@ GDG Arica es una comunidad geek, abierta y sin fines de lucro que comparte e int
 # ¿Qué hacemos?
 Creamos eventos con el ánimo de difundir el conocimiento sobre tecnología y mejorar el panorama tecnológico de la ciudad. Además, la gran mayoría de estos eventos son gratuitos, pues creemos que el conocimiento no debe enfrentarse a mayor barrera que el interés del que quiere aprenderlo.
 
+Más información sobre los tipos de eventos que realizamos [aquí](#).
 
+# GDG Organizer
 
-# Registro Fotográfico 📷
+Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente guía.
 
- Cosas que son un gran plus para el registro fotográfico:
-+ Placas como Arduino/Raspberry PI u algún gadget tecnológico en el área de registro.
-+ Credenciales (expositores, voluntarios y organizadores). 
+# Voluntariado 🧩
 
-Recomendaciones:
-+ Para evitar estar comprando lanyards se puede pedir que estos sean devueltos al finalizar cada actividad, de esta manera solo habrían costos en la impresión de las credenciales.
-+ De momento la organización no cuenta con una cámara propia, con un mínimo de dos dias de antelación.
+Existen diversas formas de aportar a la comunidad.
 
-
-# Streaming 🎬
-
-+ No se recomienda realizar streaming de charlas presenciales, esto principalmente por la cálidad de audio.
-+ Lo que si se puede stremear son las videollamadas.
-+ También se pueden editar videos para posteriormente subirlos al canal de youtube.
-+ Es necesario grabar bien el audio para posteriormente realizar la edición de video.
-+ En caso de realizar live streaming se recomienda utilizar el software OBS.
-
-# Coffee Break ☕
-
-Recomendaciones:
-+ Se recomienda buscar un lugar donde las personas encargadas del coffe no se deban quedar cuidando el lugar, en caso contrario es posible que estos se pierdan gran parte de las charlas.
-+ Es importante que los encargados del coffe vayan reponiendo este a medida que se va vaciando. Ha sucedido que algunos asistentes quedan sin comer y sobra comida. 
-+ Las galletas del confinor rinden pero se recomienda no comprar muchas con crema ya que es más fácil que de hechen a perder. 
-+ En el confinor hacen precio al mayor por 6 productos.
-
-
-# Cupos
-
-+ Se recomienda establecer una cantidad de cupos por sobre la capacidad real, esto debido a que probablemente algunos no queden en la lista y otros que estan en la lista no asistan o asistan solo por pequeños momentos.
-
-# Reuniones GDG Latam
-
-Una vez al mes nuestro equipo organizador es parte de las reuniones con las comunidades GDG de latinoamerica y los coordinadores del programa GDG, en donde se discuten sponsorships para eventos, experiencias, entre otras cosas.
-
-<img src="https://i.imgur.com/NKnENaW.png">
-
+# Recomendaciones 💡
 
 
 <h1 align="center"> ️💚️ Agradecimientos 💚 </h1>
@@ -139,9 +107,9 @@ Una vez al mes nuestro equipo organizador es parte de las reuniones con las comu
 
 <div align="center">
   <a href="#" target="_blank">
-    <img height="200px" src="https://i.imgur.com/LJob2uc.jpg">
+    <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
   </a>
   <a>
-    <img height="150px" src="https://i.imgur.com/tb5qdu0.png">
+    <img height="100px" src="https://i.imgur.com/tb5qdu0.png">
   </a>
 </div>
