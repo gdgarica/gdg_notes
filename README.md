@@ -29,7 +29,7 @@
   <a>
     <img src="https://img.shields.io/twitter/follow/gdg_arica?label=follow">
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Conoce%20a%20la%20Comunidad%20GDG%20Arica!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/gdgarica/gdg_notes%20%F0%9F%A4%97
+  <a href="https://twitter.com/intent/tweet?text=Conoce%20a%20la%20Comunidad%20GDG%20Arica!%20%E2%9C%A8%20Aquí%20está%20su%20repositorio%20oficial%20%E2%9C%A8%20https://github.com/gdgarica/gdg_notes%20%F0%9F%A4%97
 ">
     <img src="https://img.shields.io/twitter/url/https/github.com/gdg_arica/gdg_notes.svg?style=social" alt="Tweet">
   </a>
