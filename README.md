@@ -131,7 +131,10 @@ Una vez al mes nuestro equipo organizador es parte de las reuniones con las comu
 <h1 align="center"> ️🤝 Patrocinadores 🤝 </h1>
 
 <div align="center">
-<a href="http://yuxiglobal.com/" target="_blank">
-<img width=30% src="assets/images/yuxi-global-logo.png">
-</a>
+  <a href="#" target="_blank">
+    <img width=30% src="https://i.imgur.com/LJob2uc.jpg">
+  </a>
+  <a>
+    <img width="30%" src="https://i.imgur.com/tb5qdu0.png">
+  </a>
 </div>
