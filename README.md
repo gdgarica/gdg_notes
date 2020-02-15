@@ -109,6 +109,7 @@ Existen diversas formas de aportar a la comunidad.
   <a href="#" target="_blank">
     <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
   </a>
+  <br>
   <a>
     <img height="100px" src="https://i.imgur.com/tb5qdu0.png">
   </a>
