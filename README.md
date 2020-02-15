@@ -8,17 +8,15 @@
   <a href="https://www.meetup.com/Angular-Medellin/members/">
     <img src="https://img.shields.io/badge/👫-+100_miembros-1d2935.svg?style=flat" alt="">
   </a>
-  <a href="#-contribuyentes-">
+  <a href="#">
     <img src="https://img.shields.io/badge/👫-+5_contribuyentes-1d2935.svg?style=flat" alt="">
   </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="">
-  </a>
   <a href="https://twitter.com/jdjuan">
     <img src="https://img.shields.io/badge/🕴-+5_organizadores-1d2935.svg?style=flat" alt="">
   </a>
   <br><br>
-    <img width=70% src="assets/images/community3.jpg">
+    <img width=70% src="https://lh3.googleusercontent.com/pDG2hU7IaFwwRDOOFFVqcy-z79rRXmI9kXHoTA636W2i3NtH9IbOEmy3IMkQKQ40_ZT4pZEI12AmRsVUs98pz0rU8qXkiIJhDtQgVl9S2bOKkWzChU3tuAHTzGwd1eFNimNLcVpoK8CMhjHM-Bp-SOCBAn8GY028OUE9OOWdxUGQVoZevAuEyyn_xfqgzEgTIpEgrkSBOJW4WMbNfoxKjFjcgLBNDZMng-w1FJQoJI5iS373S9QCu_vwbu9gTHIGSA7RQTLF5Pyq_GKZr8qelEmzwC-2nWAnC8_gXV3c6w9BBLnAXRKpPqeQLTEaaPHvodona7H7v_J9Q31BqgwmCB-ZvCeX_OkRARXzAuVFzPolG_MsKJb_OYWT0IH-gimY2vVZRW5o73jM_YZEhriRrIT8LGJoJyDvJ1fjZdL7hRvC3SYKSqa3_CfccrMiZPVMGOehhMsp9ktUcFxqwVLRO7-WoyBvuMyruz0ZQIQia1_PLCRztWGZOg1_D1VkMB51kWhwKD1s3hTZxXb219f8T8VoBpp7NAKH1uL_FXTTg6m8OWVUYIcoJHynbalvLJqNkBk7EtogBB2zrJSeF9KpsPcwzHzwLGuVozB57LFyh_Le51LGdEBEvO0Cr1D7UwMrpvp98gPZNu5s7A1HFYeZveWYwtxOygf4CHlwJ9C71ICDO_-eIcye3tUrJMH1FXMVxGVLq0gnoJ_IZ1PZfy89bjkJGf6HAlE56WS05jYSonJy4W0=w1842-h1234-no">
   <br><br>
   <a href="https://github.com/gdgarica/gdg_notes/stargazers">
     <img src="https://img.shields.io/github/stars/gdgarica/gdg_notes.svg?style=social" alt="">
