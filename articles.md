@@ -21,3 +21,5 @@
 # Iluminación (Soft Lights)
 
 # Interfaz de Audio
+
+# Gadgets

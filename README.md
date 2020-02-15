@@ -57,11 +57,18 @@
 </div>
 
 
-# ¿Qué es GDG?
-Acrónimo de Google Developer Group.
-GDG Arica es una comunidad de personas interesadas en aprender y compartir conocimiento sobre tecnología de información.
+# ¿Qué es un GDG?
+Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. GDG Arica es la rama local de esta comunidad.
 
-Tenemos 4 maneras de participar:
+
+GDG Arica es una comunidad de personas interesadas en aprender y compartir conocimiento.
+
+# ¿Quiénes somos?
+GDG Arica es una comunidad geek, abierta y sin fines de lucro que comparte e intercambia conocimiento y experiencias acerca de tecnologías de Google y otras entidades relacionadas con el desarrollo web, desarrollo móvil, machine learning, inteligencia artificial, seguridad informática, cloud computing, entre otros.
+
+# ¿Qué hacemos?
+Creamos eventos con el ánimo de difundir el conocimiento sobre tecnología y mejorar el panorama tecnológico de la ciudad. Además, la gran mayoría de estos eventos son gratuitos, pues creemos que el conocimiento no debe enfrentarse a mayor barrera que el interés del que quiere aprenderlo.
+
 
 
 # Registro Fotográfico 📷
@@ -109,7 +116,7 @@ Una vez al mes nuestro equipo organizador es parte de las reuniones con las comu
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Alejandro Ñáñez Ortiz</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía Bedoya</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
+| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Mauricio</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía Bedoya</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub><b>Fabian Buitrago</b></sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub><b>teffcode</b></sub>](https://github.com/teffcode)<br /> |
 
@@ -132,9 +139,9 @@ Una vez al mes nuestro equipo organizador es parte de las reuniones con las comu
 
 <div align="center">
   <a href="#" target="_blank">
-    <img width=30% src="https://i.imgur.com/LJob2uc.jpg">
+    <img height="200px" src="https://i.imgur.com/LJob2uc.jpg">
   </a>
   <a>
-    <img width="30%" src="https://i.imgur.com/tb5qdu0.png">
+    <img height="150px" src="https://i.imgur.com/tb5qdu0.png">
   </a>
 </div>
