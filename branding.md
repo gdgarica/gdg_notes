@@ -6,6 +6,7 @@
 <img src="https://i.imgur.com/7qQvoOp.png">
 <img src="https://i.imgur.com/YhBF0Hw.png">
 <img src="https://i.imgur.com/zruO8xI.png">
+<img src="https://i.imgur.com/W3Ok8dO.png">
 
 ## Lado Trasero
 

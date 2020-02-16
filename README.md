@@ -56,6 +56,16 @@
   <br>Hecha con ❤︎ por la comunidad <a href="https://twitter.com/yoshuawuyts">GDG Arica</a>.
 </div>
 
+## Tabla de Contenido
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
 
 # ¿Qué es un GDG?
 Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. `GDG Arica` es la rama local de esta comunidad.
@@ -111,6 +121,6 @@ Existen diversas formas de aportar a la comunidad.
   </a>
   <br>
   <a>
-    <img height="100px" src="https://i.imgur.com/tb5qdu0.png">
+    <img height="80px" src="https://i.imgur.com/tb5qdu0.png">
   </a>
 </div>
