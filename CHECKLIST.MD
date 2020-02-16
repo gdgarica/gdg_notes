@@ -14,32 +14,32 @@
 * **🏢 Reservar el lugar:** Make sure sponsors have the place setup and booked
 * **🎁 Conseguir SWAG:** Ask your sponsor for SWAG to give away in your next meetup
 * **📝 Información del evento:** Include this sections in your meetup event description:
-    * **🏢 Specific Location:** Address, Google Maps, Venue name and indications on how to get there are all important
+    * **🏢 Ubicación específica:** Address, Google Maps, Venue name and indications on how to get there are all important
     * **📚 Optional Readings:** Short articles or YouTube videos that serve as an introduction for the topics that speakers will talk about
     * **🚲 Parking/Bicycle friendly:** Let your attendees know if the building provides parking slots or places to left their bicycles
-    * **📝 Sign up form:** To get a real insight of the number of people that is attending with these fields:
+    * **📝 Formulario de Inscripción:** To get a real insight of the number of people that is attending with these fields:
     * **👉 Nombre Completo**
     * **💳 ID:** In case building access requires it
-    * **📧 Email address:** To send them an email back with their answers
-    * **🍎 Food conditions** This way you can know who is vegetarian o vegan
-    * **♿ Accessibility Needs**
+    * **📧 Email:** To send them an email back with their answers
+    * **🍎 Condiciones de Comida** This way you can know who is vegetarian o vegan
+    * **♿ Necesidades de Accesibilidad**
 
 ### Logística
 
-* **🏢 Visit the location prior the event:** Make sure everything is working and that it fits the meetup's needs
-* **🔧 Understand the technical aspects of your auditorium:** Ask if you will have a technical assistant during the event, otherwise make sure you know how to handle all the technical difficulties you may encounter (wifi, sound, amplification, AC, projection, lights, microphone, keys to open the room, etc)
+* **🏢 Visitar el lugar antes del evento:** Make sure everything is working and that it fits the meetup's needs
+* **🔧 Comprender aspectos técnicos de su auditorio:** Ask if you will have a technical assistant during the event, otherwise make sure you know how to handle all the technical difficulties you may encounter (wifi, sound, amplification, AC, projection, lights, microphone, keys to open the room, etc)
 * **🎤 Get a wearable microphone:** Having your speaker write code and hold the microphone at the same time is tricky. Do your best to get a microphone that can be wore
 * **🕴 Conseguir suficientes sillas:** Make sure you have plenty of chairs, you don't want to have people standing during your event
 * **🍪 Tener un lugar para los snacks:** You will need a table, a few garbage cans and enough space for people to spare
-* **🔌 Power outlets:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
+* **🔌 Enchufes de COrriente:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
 * **📺 Puertos de Proyección:** Ask your speaker about technical requirements, hopefully VGA and HDMI should be enough, otherwise find a way to get the proper converter
 
-### Talks
+### Charlas
 
 * **🤓 Validate your speaker's slides:** Not all experts know how to share their knowledge. Ask your speakers to submit their presentations before the event. Speakers must submit ther presentation online, as well as the code they are pretending to show (CodePen, JSFiddler, Stackblitz or Plunker), so everything can be screened from the same laptop
 * **👄 Support other languages if applies:** Make room for a 10 minute talk in another language to motivate the community to learn and practice
-* **♿️ Make your contents accessible:** Make sure sure all the contents of the next meetup are accessible for people with disabilities
-* **🤵 Find an international speaker:** Have someone from another country to speak for 10-15 minutes in a Hangout
+* **♿️ Hacer que sus contenidos sean accesibles:** Make sure sure all the contents of the next meetup are accessible for people with disabilities
+* **🤵 Encontrar un speaker internacional:** Have someone from another country to speak for 10-15 minutes in a Hangout
 * **⏰ Non-practical talks should be short:** Talks with no practical content can make people get bored, make sure those are short (up to 30 minutes).
 
 ### Workshops (For VIP Workshops only)
@@ -63,12 +63,12 @@
 * 🎥 Make sure the recording is ready by the time you start the meetup, making sure the lens are correctly set.
 * Make a boomerang
 
-### Logistics
+### Logística
 
 * **🍪 Have someone receive and place the snacks:** Make sure someone is in charge of getting the snacks on time
 * **😇 Talk to the audience often:** Make sure you ask your people if they are feeling ok, if temperature is ok, if they are understanding the contents (it's ok to interrupt the speaker), if there's in anything they want
 
-### Presentation Sections
+### Secciones de Presentación
 
 * **🐣 Welcome new comers:** Explain what the community is about and little detail and invite them to participate
 * **🔨 Feature your community resources:** Share the community resources with your members, such as website, repository, chat, etc. You want to give them all the chances to participate
