@@ -29,10 +29,10 @@
 * **🏢 Visit the location prior the event:** Make sure everything is working and that it fits the meetup's needs
 * **🔧 Understand the technical aspects of your auditorium:** Ask if you will have a technical assistant during the event, otherwise make sure you know how to handle all the technical difficulties you may encounter (wifi, sound, amplification, AC, projection, lights, microphone, keys to open the room, etc)
 * **🎤 Get a wearable microphone:** Having your speaker write code and hold the microphone at the same time is tricky. Do your best to get a microphone that can be wore
-* **🕴 Get enough chairs:** Make sure you have plenty of chairs, you don't want to have people standing during your event
-* **🍪 Have a place for the snacks:** You will need a table, a few garbage cans and enough space for people to spare
+* **🕴 Conseguir suficientes sillas:** Make sure you have plenty of chairs, you don't want to have people standing during your event
+* **🍪 Tener un lugar para los snacks:** You will need a table, a few garbage cans and enough space for people to spare
 * **🔌 Power outlets:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
-* **📺 Projection ports:** Ask your speaker about technical requirements, hopefully VGA and HDMI should be enough, otherwise find a way to get the proper converter
+* **📺 Puertos de Proyección:** Ask your speaker about technical requirements, hopefully VGA and HDMI should be enough, otherwise find a way to get the proper converter
 
 ### Talks
 
@@ -56,7 +56,7 @@
 
 ## Durante el evento
 
-### Registor Visual
+### Registro Visual
 
 * **🤳 Ask someone professionally to take photos:** Photos are a great way to attract new members to participate, so make sure you take enough photos during the event. 🎥 Video is also a great resource.
 * 💻 Make sure the recording software is on and working. Show all presentations from the computer that is recording the screen.
