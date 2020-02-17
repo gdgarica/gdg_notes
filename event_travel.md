@@ -1,5 +1,4 @@
-# Eventos
-
+<h1 align="center">Eventos ✈</h1>
 
 ## JS Conf Chile
 + Twitter: [@jsconfcl](https://twitter.com/jsconfcl)
