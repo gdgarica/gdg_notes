@@ -70,12 +70,20 @@
 # 1. Introducción
 
 ## 1.1. ¿Qué es un GDG?
-Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. `GDG Arica` es la rama local de esta comunidad.
 
-# 1.2. ¿Quiénes somos?
+Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área. 
+
+GDG es una comunidad mundial interesada en aprender, usar y promover múltiples tecnologías.
+Esta se centra en el contenido técnico educativo y realiza diversas actividades que son una excelente oportunidad para conocer personas y hacer networking.
+
+<img src="https://i.imgur.com/XaY3EVj.png">
+
+`GDG Arica` es la rama local de esta comunidad.
+
+## 1.2. ¿Quiénes somos?
 GDG Arica es una comunidad geek, abierta y sin fines de lucro que comparte e intercambia conocimiento y experiencias acerca de tecnologías de Google y otras entidades relacionadas con el desarrollo web, desarrollo móvil, machine learning, inteligencia artificial, seguridad informática, cloud computing, entre otros.
 
-# 1.3. ¿Qué hacemos?
+## 1.3. ¿Qué hacemos?
 Creamos eventos con el ánimo de difundir el conocimiento sobre tecnología y mejorar el panorama tecnológico de la ciudad. Además, la gran mayoría de estos eventos son gratuitos, pues creemos que el conocimiento no debe enfrentarse a mayor barrera que el interés del que quiere aprenderlo.
 
 Más información sobre los tipos de eventos que realizamos [aquí](#).

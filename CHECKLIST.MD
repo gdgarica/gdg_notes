@@ -31,7 +31,7 @@
 * **🎤 Get a wearable microphone:** Having your speaker write code and hold the microphone at the same time is tricky. Do your best to get a microphone that can be wore
 * **🕴 Conseguir suficientes sillas:** Make sure you have plenty of chairs, you don't want to have people standing during your event
 * **🍪 Tener un lugar para los snacks:** You will need a table, a few garbage cans and enough space for people to spare
-* **🔌 Enchufes de COrriente:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
+* **🔌 Enchufes de Corriente:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
 * **📺 Puertos de Proyección:** Ask your speaker about technical requirements, hopefully VGA and HDMI should be enough, otherwise find a way to get the proper converter
 
 ### Charlas
@@ -79,21 +79,21 @@
 * **🔢 Showcase stats:** Numbers say more than words. Let them know how the community is growing and encourage them to support.
 * **📢 Announce improvements:** Name all the issues that have turned into improvements by the community.
 * **⭐ Credit the people that have contributed:** Name publicly and thank those that opened issues, PRs or commented. Given them 🎁 swag (if you have)
-* **📢 Announce upcoming talks:** Let your community know what the next talks will be about, and if the speakers are present, make sure you bring to stage so the members can identify them
+* **📢 Anunciar próximas charlas:** Let your community know what the next talks will be about, and if the speakers are present, make sure you bring to stage so the members can identify them
 
 ### Cierre
 
 * **🕺 Ask your community to:**
     * **🕺 Help to leave the auditorium clean:** You could do it all by yourself but a hand is always welcome.
-    * **📷 Upload the pictures:** Social proof is key to bring new member to the community. Ask them to updload all the content to meetup.com
+    * **📷 Subir fotos:** Social proof is key to bring new member to the community. Ask them to updload all the content to meetup.com
     * **⭐ Rate the meetup:** This will bring wider visibility in meetup.com and it will help as an indicator of success
     * **🕺 Invite members to other meetup's events:** Communities should grow together, so support each other by promoting the different events
     * **🎉 Come to the afterparty:** A community is not made of meetups only, so pick a place and a time, and let everybody know that you will be there in case they want to hang out and drink a beer
 
 ## Después del evento
 
-* **✉ Send a closing email:** Thank everybody for attending, share some numbers (such as success rate), share a picture, and let them know what's the next step
+* **✉ Enviar un email de cierre:** Thank everybody for attending, share some numbers (such as success rate), share a picture, and let them know what's the next step
 * **📲 Comment on meetup.com:** Some people don't get meetup.com emails so make sure you also post the email as a comment in the event
-* **📱 Share on social media:** Share photos and results in social media to attract newcomers
-* **📝 Update information:** Update the `all-contributors` section, `readme.md` stats
+* **📱 Compartir en redes sociales:** Share photos and results in social media to attract newcomers
+* **📝 Actualizar información:** Update the `all-contributors` section, `readme.md` stats
 * **📇 Make a retrospective:** List the things that went well, and those that went bad and make sure you fix them before next time

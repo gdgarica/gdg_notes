@@ -1,3 +1,5 @@
+<h1 align="center">Eventos de la Comunidad GDG</h1>
+
 # Kickstart CodeJam
 
 Competencia de codificación en línea y a nivel mundial donde los estudiantes pueden participar en desafíos algorítmicos durante todo el año. El objetivo es ayudar a los estudiantes a desarrollar sus habilidades de codificación, al tiempo que pueden echar un vistazo a las habilidades de programación necesarias para una carrera técnica en Google.
@@ -12,8 +14,9 @@ Opciones que proporciona Google a los organizadores.
 - Solo puedo pagar ticket.
 - No puedo pagar nada pero deseo asistir.
 
-# Google Next
+# Google IO Extended
 
+# Google Next
 
 
 # Cloud Hero
@@ -36,6 +39,9 @@ Tu puntaje será expuesto en el ranking global y la performance de cada uno ser�
 + Tienen un enfoque establecido por Google. Por ejemplo, Actions on Google y Google Cloud.
 + Sponsorship: 500 USD
 + nos informen cuánto dinero estiman gastar, junto con una pequeña descripción de cómo planean hacerlo.
+
+# Firebase Study Jam
++ Sponsorship: 500 USD
 
 # International Woman Day (IWD)
 
