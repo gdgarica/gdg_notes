@@ -63,8 +63,8 @@
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
+- [Guía General](#backers-)
+- [Guía para Organizadores](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
 # ¿Qué es un GDG?
@@ -78,9 +78,9 @@ Creamos eventos con el ánimo de difundir el conocimiento sobre tecnología y me
 
 Más información sobre los tipos de eventos que realizamos [aquí](#).
 
-# GDG Organizer
+# Guía para Organizadores
 
-Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente guía.
+Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente [guía](#).
 
 # Voluntariado 🧩
 
@@ -94,7 +94,7 @@ Existen diversas formas de aportar a la comunidad.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Mauricio</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía Bedoya</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
+| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía Bedoya</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub><b>Fabian Buitrago</b></sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub><b>teffcode</b></sub>](https://github.com/teffcode)<br /> |
 
