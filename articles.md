@@ -10,15 +10,15 @@
 
 + [Logitech BRIO 4K ($130.000)](https://www.spdigital.cl/products/view/58773)
 
-# Cámaras Fotográficas
+# Cámaras Fotográficas 📷
 
 +
 
-# Grabadoras de Video
+# Grabadoras de Video 🎥
 
 +
 
-# Iluminación 
+# Iluminación 💡
 
 ## SoftBox (Caja de Luz)
 
@@ -28,8 +28,8 @@
 [Elgato Key Light ($145.000)](https://www.amazon.com/Elgato-L%C3%A1mpara-profesional-estudio-l%C3%BAmenes/dp/B07L755X9G/)
 
 
-# Interfaz de Audio
+# Interfaz de Audio 🎛
 
-# Gadgets
+# Gadgets 🕹
 
 + [LaMetric ($150.000)](https://www.amazon.com/-/es/Reloj-tiempo-WiFi-Smart-Lametric/dp/B01IVTVK3W)

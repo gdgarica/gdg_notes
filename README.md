@@ -75,6 +75,8 @@ Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con
 
 GDG es una comunidad mundial interesada en aprender, usar y promover múltiples tecnologías mediante la realización de diversas actividades centradas en el contenido técnico educativo.
 
+
+
 <img src="https://i.imgur.com/XaY3EVj.png">
 
 `GDG Arica` es la rama local de esta comunidad.
@@ -92,10 +94,14 @@ Algunos de los tipos de actividades que desarrollamos como comunidad son:
 + Meetups (charlas)
 + Workshops (talleres)
 + Study Jams
-+ Dev Fest (Conferencias)
++ Dev Fest (conferencias)
 + Concursos
 
 Más información sobre los tipos de eventos que realizamos [aquí](#).
+
+# 1.4. Beneficios
+
+GDG es parte del programa Google Developers, razón por la cual recibe apoyo y cuenta con una serie de beneficios por parte de Google.
 
 <img src="https://i.imgur.com/JPM31yS.png">
 
@@ -103,7 +109,7 @@ Más información sobre los tipos de eventos que realizamos [aquí](#).
 
 # 3. Guía para Organizadores
 
-Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente [Guía](#).
+Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente [guía](#).
 
 # Voluntariado 🧩
 
@@ -117,7 +123,7 @@ Existen diversas formas de aportar a la comunidad.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía Bedoya</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
+| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
