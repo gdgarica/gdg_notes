@@ -28,8 +28,10 @@
 [Elgato Key Light ($145.000)](https://www.amazon.com/Elgato-L%C3%A1mpara-profesional-estudio-l%C3%BAmenes/dp/B07L755X9G/)
 
 
-# Interfaz de Audio 🎛
+# Interfaz de Audio 🎛🎧
 
 # Gadgets 🕹
 
 + [LaMetric ($150.000)](https://www.amazon.com/-/es/Reloj-tiempo-WiFi-Smart-Lametric/dp/B01IVTVK3W)
+
++ [Neewer Portable Desktop Mini Tripod](https://www.amazon.com/Neewer-Port%C3%A1til-Cent%C3%ADmetros-Videoc%C3%A1mara-kilogramos/dp/B07FKDH3BC)
