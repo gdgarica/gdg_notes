@@ -108,11 +108,28 @@ GDG es parte del programa Google Developers, razón por la cual recibe apoyo y c
 
 ### Sponsorships
 
+Google ofrece apoyo económico para ciertos eventos como:
+
++ Firebase Study Jam
++ Cloud Study Jam
++ International Woman Day (IWD)
++ Google IO Extended
++ Devfests
+
+En la mayoría de los casos el sponsor llega a 500USD excepto en el caso de los Devfest que puede resultar en un monto mayor.
+
 ### Speakers internacionales
 
 ### Material de Apoyo
 
 ### Invitaciones a eventos internacionales
+
+Los organizadores de la comunidad reciben invitaciones a eventos como: 
++ GDG Latam Summit
++ GDG Global Summit
++ Google IO
+
+Algunos de estos eventos tienen un costo de entrada bastante alto para el público en general. Por ejemplo, una entrada para el Google IO puede tener un costo superior a los 1.000USD para público general, mientras que para un GDG Organizer puede ser gratuita e incluso incluir gastos adicionales como la estadía y la comida.
 
 # 2. Guía General
 

@@ -34,4 +34,4 @@
 
 + [LaMetric ($150.000)](https://www.amazon.com/-/es/Reloj-tiempo-WiFi-Smart-Lametric/dp/B01IVTVK3W)
 
-+ [Neewer Portable Desktop Mini Tripod](https://www.amazon.com/Neewer-Port%C3%A1til-Cent%C3%ADmetros-Videoc%C3%A1mara-kilogramos/dp/B07FKDH3BC)
++ [Neewer Portable Desktop Mini Tripod ($35.000)](https://www.amazon.com/Neewer-Port%C3%A1til-Cent%C3%ADmetros-Videoc%C3%A1mara-kilogramos/dp/B07FKDH3BC)
