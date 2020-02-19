@@ -28,7 +28,7 @@
 [Elgato Key Light ($145.000)](https://www.amazon.com/Elgato-L%C3%A1mpara-profesional-estudio-l%C3%BAmenes/dp/B07L755X9G/)
 
 
-# Interfaz de Audio 🎛🎧
+# Interfaz de Audio 🎧
 
 # Gadgets 🕹
 

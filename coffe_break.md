@@ -2,7 +2,7 @@
 
 | Dulces                                                 | Valor | 
 |--------------------------------------------------------|-------|
-| Roscas                                                 | 5000  |
+| Roscas                                                 | 5.000  |
 
 
 | Galletas                                               | Valor | Valor x Mayor |
