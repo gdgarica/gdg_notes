@@ -2,31 +2,31 @@
 
 ## Cada día/cada dos días
 
-* **👀 Check all open issues activity:** Make sure there are no blockers and all of them are updated
-* **🤳 Revisar Slack:** Answer any comments or questions from the community
-* **👮 Check the talks' progress:** Remember speakers to send out the slides and fill out any missing information
+* **👀 Comprobar la actividad de todos los problemas sin resolver:** Make sure there are no blockers and all of them are updated.
+* **🤳 Revisar Slack:** Responder comentarios o preguntas de la comunidad.
+* **👮 Comprobar el progreso de las charlas:** Recordar a los oradores que envíen las diapositivas y completen cualquier otra información faltante.
 
 ## Antes del evento
 
 ### General
 
-* **📆 Seleccionar una fecha:** Make sure there are no other events happening in parallel (like the UEFA Championship final 😅)
-* **🏢 Reservar el lugar:** Make sure sponsors have the place setup and booked
-* **🎁 Conseguir SWAG:** Ask your sponsor for SWAG to give away in your next meetup
-* **📝 Información del evento:** Include this sections in your meetup event description:
-    * **🏢 Ubicación específica:** Address, Google Maps, Venue name and indications on how to get there are all important
-    * **📚 Optional Readings:** Short articles or YouTube videos that serve as an introduction for the topics that speakers will talk about
-    * **🚲 Parking/Bicycle friendly:** Let your attendees know if the building provides parking slots or places to left their bicycles
+* **📆 Seleccionar una fecha:** Asegurarse que no haya otros eventos en paralelo (como la final de la UEFA Champions League 😅).
+* **🏢 Reservar el lugar:** Asegurarse que los patrocinadores tengan el lugar preparado y reservado.
+* **🎁 Conseguir SWAG:** Pedirle a tu patrocinador de SWAG regalos para tu próximo meetup.
+* **📝 Información del evento:** Incluya esta información en la descripción de su evento para el meetup.
+    * **🏢 Ubicación específica:** La dirección, un Google Maps, el nombre del lugar y las indicaciones de cómo llegar son importantes.
+    * **📚 Lecturas opcionales:** Pequeños artículos o videos de Youtube que sirvan de introducción a los temas que expondran los oradores.
+    * **🚲 Estacionamiento:** Hacer saber a los asistentes si el lugar ofrece estacionamiento o lugares para dejar sus bicicletas.
     * **📝 Formulario de Inscripción:** To get a real insight of the number of people that is attending with these fields:
     * **👉 Nombre Completo**
-    * **💳 ID:** In case building access requires it
-    * **📧 Email:** To send them an email back with their answers
-    * **🍎 Condiciones de Comida** This way you can know who is vegetarian o vegan
+    * **💳 ID:** En caso que el acceso a las instalaciones lo requiera.
+    * **📧 Email:** Para enviarles un correo electrónico con sus respuestas.
+    * **🍎 Condiciones de Comida:** De esta manera puedes saber quién es vegetariano, vegano o alérgico a algún alimento.
     * **♿ Necesidades de Accesibilidad**
 
 ### Logística
 
-* **🏢 Visitar el lugar antes del evento:** Make sure everything is working and that it fits the meetup's needs
+* **🏢 Visitar el lugar antes del evento:** Asegurarse de que todo funciona y se ajusta a las necesidades del evento.
 * **🔧 Comprender aspectos técnicos de su auditorio:** Ask if you will have a technical assistant during the event, otherwise make sure you know how to handle all the technical difficulties you may encounter (wifi, sound, amplification, AC, projection, lights, microphone, keys to open the room, etc)
 * **🎤 Get a wearable microphone:** Having your speaker write code and hold the microphone at the same time is tricky. Do your best to get a microphone that can be wore
 * **🕴 Conseguir suficientes sillas:** Make sure you have plenty of chairs, you don't want to have people standing during your event

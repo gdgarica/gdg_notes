@@ -116,7 +116,7 @@ Google ofrece apoyo económico para ciertos eventos como:
 + Google IO Extended
 + Devfests
 
-En la mayoría de los casos el sponsor llega a 500USD excepto en el caso de los Devfest que puede resultar en un monto mayor.
+En la mayoría de los casos el sponsor llega a 500USD, excepto en el caso de los Devfest que puede resultar en un monto mayor.
 
 ### Speakers internacionales
 

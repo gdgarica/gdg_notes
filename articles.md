@@ -6,6 +6,8 @@
 
 + [Rode Lavalier GO - Micrófono portátil profesional ($48.000)](https://www.amazon.com/-/es/Rode-Lavalier-GO-Micr%C3%B3fono-profesional/dp/B07WM65GTF)
 
++ [Blue Microphones Yeti PRO XLR ($260.000)](https://www.amazon.com/-/es/Microphones-condensador-parabrisas-balanceado-reutilizables/dp/B0792LLB6J)
+
 # WebCams 
 
 + [Logitech BRIO 4K ($130.000)](https://www.spdigital.cl/products/view/58773)
