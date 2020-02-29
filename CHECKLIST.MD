@@ -9,8 +9,8 @@
 
 ### General
 
-* **📆 Seleccionar una fecha:** asegurarse que no haya otros eventos en paralelo (como la final de la UEFA 😅).
-* **🏢 Reservar el lugar:** asegurarse que los patrocinadores tengan el lugar reservado y preparado.
+* **📆 Seleccionar una fecha:** asegurarse de que no haya otros eventos en paralelo (como la final de la UEFA 😅).
+* **🏢 Reservar el lugar:** asegurarse de que los patrocinadores tengan el lugar reservado y preparado.
 * **🎁 Conseguir SWAG:** pedir al patrocinador correspondiente los regalos para el próximo meetup.
 * **📝 Información del evento:** incluir esta información en la descripción del evento.
     * **🏢 Ubicación:** la dirección, referencia en Google Maps, nombre del lugar e indicaciones de cómo llegar son importantes.
@@ -46,7 +46,7 @@
 * 💾 Para los ejercicios prácticos explicar en detalle qué herramientas deben ser instaladas previamente.
 * 📁 Crear un documento con la configuración del ambiente para que los asistentes se presenten con las herramientas instaladas y listas.
 * 🤳 Testear el taller la misma semana del evento, así se podrá reducir las posibilidades de que algo falle debido a alguna actualización de dependencia.
-* 💾 Testear el taller en diferentes SO, así sabrá que hacer cuando se presente algún inconveniente.
+* 💾 Testear el taller en diferentes SO, así se sabrá que hacer cuando se presente algún inconveniente.
 * 👴 Preparar el taller con alguien que no sepa nada del tema, así se podrá validar la forma en que imparte el taller.
 * 📦 Crear un repositorio que contenga todo el código que se escribirá durante el taller. La creación de ramas que denoten cada paso facilita a los asistentes comprender las diferencias entre los pasos.
 * 📝 Poner cada paso del proceso en las diapositivas, eso facilita el seguimiento del taller.
@@ -58,7 +58,7 @@
 ### Registro Visual
 
 * **🤳 Pedir a alguien que tome fotos:** Las fotos son una gran manera de atraer a nuevos miembros a participar, así que asegurese de tomar suficientes fotos durante el evento. 🎥 Los videos también son un gran recurso.
-* 💻 Asegurese de que el software de grabación esté encendido y funcionando. Muestrar todas las presentaciones desde el ordenador que está grabando la pantalla.
+* 💻 Asegurarse de que el software de grabación esté encendido y funcionando. Mostrar todas las presentaciones desde el ordenador que esté grabando la pantalla.
 * 🎥 Make sure the recording is ready by the time you start the meetup, making sure the lens are correctly set.
 * Make a boomerang
 
