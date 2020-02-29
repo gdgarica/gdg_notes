@@ -21,8 +21,14 @@
 + Lugar: Buenos Aires.
 + Valor entrada:
 
+<img src="https://i.imgur.com/qogxkXK.jpg">
+
 ## Node Conf Colombia
 + Twitter: [@NodeConfCo](https://twitter.com/NodeConfCo)
 
+<img src="https://i.imgur.com/BAf0yRA.jpg">
+
 ## CSS Conf Colombia
 + Twitter: [@cssconfco](https://twitter.com/cssconfco)
+
+<img src="https://i.imgur.com/4h07AP4.jpg">
