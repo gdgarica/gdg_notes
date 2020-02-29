@@ -26,12 +26,12 @@
 ### Logística
 
 * **🏢 Visitar el lugar antes del evento:** asegurar de que todo funcione y se ajuste a las necesidades del evento.
-* **🔧 Comprender aspectos técnicos de su auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que puede encontrar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
+* **🔧 Comprender aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que pueda encontrar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
 * **🎤 Conseguir un micrófono inálambrico:** hacer que el orador escriba código y sostenga el micrófono es difícil. Hacer lo posible por conseguir un micrófono que se pueda sostener o fijar en alguna parte.
 * **🕴 Conseguir suficientes sillas:** asegurar muchas sillas. No se quiere que la gente este de pie durante el evento.
 * **🍪 Tener un lugar para los snacks:** es necesario un mesa, botes de basura y suficiente espacio para la gente.
 * **🔌 Enchufes:** asegurar que haya suficientes enchufes cerca del escenario, de lo contrario conseguir un alargador.
-* **📺 Puertos de Proyección:** preguntar a los oradores sobre los requisitos técnicos, con VGA y HDMI debería ser suficiente, de lo contrario encontrar una manera de conseguir el adaptador adecuado.
+* **📺 Puertos de Proyección:** preguntar a los oradores sobre los requisitos técnicos. Con VGA y HDMI debería ser suficiente, de lo contrario encontrar una manera de conseguir el adaptador adecuado.
 
 ### Charlas
 
@@ -41,17 +41,17 @@
 * **🤵 Encontrar un speaker internacional:** tener a alguien de otro país para hablar durante 10-15 minutos en Hangouts.
 * **⏰ Charlas no prácticas deben ser cortas:** las charlas sin contenido práctico pueden hacer que la gente se aburra. Asegurarse de que sean cortas (hasta 30 minutos).
 
-### Workshops (For VIP Workshops only)
+### Workshops (solo para Workshops VIP)
 
-* 💾 For practical exercises explain in great detail what tools need to be installed beforehand
-* 📁 Create a document with environmental setup so all (not really, but at least most) of the attendees come with all the tools installed and ready
-* 🤳 Test your workshop the same week of the event, that way you can reduce the chances of something failing due to some dependency update.
-* 💾 Test your workshop on different Operative Systems, that way you know what to do when they find a OS stopper.
-* 👴 Prepare your workshop with someone who doesn't know anything about the topic, that way can validate the way your workshop is given.
-* 📦 Create a repository that holds all the code that will be written during the workshop. Creating branches to denote every step makes it easier for the attendees to fully understand the differences between steps. Use numbers to name the branches.
-* 📝 Put every step of the process in the slides, that's easier for people to follow.
-* 👨‍👩‍👧‍👦 Ask members of the community for help prior to the workshop. The should serve as assistants when any of the attendees is stuck in the process. They should be contacted at least two weeks before the event, so they can study the contents and be ready to help
-* 🔌 If you are running a workshop make sure that you have enough power outlets for most of the members of the meetup
+* 💾 Para los ejercicios prácticos explicar en detalle qué herramientas deben ser instaladas previamente.
+* 📁 Crear un documento con la configuración del ambiente para que los asistentes vengan con todas las herramientas instaladas y listas.
+* 🤳 Testear el taller la misma semana del evento, así podrá reducir las posibilidades de que algo falle debido a alguna actualización de dependencia.
+* 💾 Testear el taller en diferentes SO, así sabrá que hacer cuando se presente algún inconveniente.
+* 👴 Prepare su taller con alguien que no sepa nada del tema, así podrá validar la forma en que da su taller.
+* 📦 Crear un repositorio que contenga todo el código que se escribirá durante el taller. La creación de ramas que denoten cada paso facilita a los asistentes comprender las diferencias entre los pasos.
+* 📝 Poner cada paso del proceso en las diapositivas, eso facilita el seguimiento del taller.
+* 👨‍👩‍👧‍👦  Pedir ayuda a los miembros de la comunidad antes del taller. Deberían servir como apoyo cuando alguno de los asistentes se atasque en el proceso. Deben ser contactados al menos dos semanas antes del evento, para que puedan estudiar los contenidos y estar listos para apoyar.
+* 🔌 Si esta dirigiendo un taller, asegurese de tener suficientes enchufes para los asistentes al evento.
 
 ## Durante el evento
 
