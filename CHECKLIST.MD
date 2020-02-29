@@ -64,35 +64,35 @@
 
 ### Logística
 
-* *🍪 Que alguien reciba y coloque los snacks:* asegurarse de que alguien se encargue de conseguir los snacks a tiempo.
-* *😇 Hablar a menudo con el público:* asegurarse de preguntar a la gente si se siente bien, si la temperatura esta bien, si están entendiendo el contenido (está bien interrumpir al orador) y si hay algo que quieran.
+* **🍪 Que alguien reciba y coloque los snacks:** asegurarse de que alguien se encargue de conseguir los snacks a tiempo.
+* **😇 Hablar a menudo con el público:** asegurarse de preguntar a la gente si se siente bien, si la temperatura esta bien, si están entendiendo el contenido (está bien interrumpir al orador) y si hay algo que quieran.
 
 ### Secciones de Presentación
 
-* *🐣 Bienvenida a los nuevos:* explicar de qué se trata la comunidad e invítarlos a participar.
-* *🔨 Presente los recursos de la comunidad:* compartir los recursos de la comunidad con sus miembros, como el sitio web, el repositorio, el grupo de chat, etc. Se desea dar a todos la oportunidad de participar.
-* *👴 Hablar lento para que todos puedan entender 👵*
-* *💰 Agradecer públicamente a los patrocinadores:* nombrar y hacer saber a los miembros como estos están ayudando. También invit a nuevas empresas a patrocinar.
-* *👦 Recuerde al público quién es (presentador):* deje que la audiencia se conecte contigo contándoles un poco sobre ti. Intente decir algo nuevo cada vez.
-* *💭 Recapitular el evento anterior:* dejar que la comunidad sepa lo que se aprendió en el evento anterior para que se tenga un sentido de continuidad.
-* *🔢 Estadísticas:* los números dicen más que las palabras. Dar a conocer cómo crece la comunidad y anímar a colaborar.
-* *📢 Anunciar mejoras:* nombrar todos los asuntos/inconvenientes que se han convertido en mejoras por parte de la comunidad.
-* *⭐ Agradecer a quienes han contribuido:* nombrar públicamente y agradecer a aquellos que abrieron issues, PRs o comentaron. Dar SWAG si es posible.
-* *📢 Anunciar próximas charlas:* hacer saber a la comunidad de qué tratarán las próximas charlas, y si los oradores están presentes, asegúrarse de llevarlos al escenario para que los miembros puedan identificarlos.
+* **🐣 Bienvenida a los nuevos:** explicar de qué se trata la comunidad e invítarlos a participar.
+* **🔨 Presente los recursos de la comunidad:** compartir los recursos de la comunidad con sus miembros, como el sitio web, el repositorio, el grupo de chat, etc. Se desea dar a todos la oportunidad de participar.
+* **👴 Hablar lento para que todos puedan entender 👵**
+* **💰 Agradecer públicamente a los patrocinadores:** nombrar y hacer saber a los miembros como estos están ayudando. También invit a nuevas empresas a patrocinar.
+* **👦 Recuerde al público quién es (presentador):** deje que la audiencia se conecte contigo contándoles un poco sobre ti. Intente decir algo nuevo cada vez.
+* **💭 Recapitular el evento anterior:** dejar que la comunidad sepa lo que se aprendió en el evento anterior para que se tenga un sentido de continuidad.
+* **🔢 Estadísticas:** los números dicen más que las palabras. Dar a conocer cómo crece la comunidad y anímar a colaborar.
+* **📢 Anunciar mejoras:** nombrar todos los asuntos/inconvenientes que se han convertido en mejoras por parte de la comunidad.
+* **⭐ Agradecer a quienes han contribuido:** nombrar públicamente y agradecer a aquellos que abrieron issues, PRs o comentaron. Dar SWAG si es posible.
+* **📢 Anunciar próximas charlas:** hacer saber a la comunidad de qué tratarán las próximas charlas, y si los oradores están presentes, asegúrarse de llevarlos al escenario para que los miembros puedan identificarlos.
 
 ### Cierre
 
-* *🕺 Pedir a la comunidad que:*
-    * *🕺 Ayude a mantener el auditorio limpio:* una mano siempre es bienvenida.
-    * *📷 Suba fotos:* la evidencia social es clave para atraer nuevos miembros a la comunidad. Pídales que suban todo el contenido a `meetup.com`.
-    * *⭐ Evalúe el evento:* esto traerá una mayor visibilidad en `meetup.com` y ayudará como un indicar de éxito.
-    * *🕺 Invite a otros eventos* las comunidades deben crecer juntas, por lo que deben apoyarse mutuamente promoviendo los diferentes eventos.
-    * *🎉 Ir a la afterparty:* una comunidad no está hecha sólo de meetups, así que elija un lugar y hora, y haga saber a todo el mundo que estará allí en caso de que quieran pasar el rato y beber una cerveza.
+* **🕺 Pedir a la comunidad que:**
+    * **🕺 Ayude a mantener el auditorio limpio:** una mano siempre es bienvenida.
+    * **📷 Suba fotos:** la evidencia social es clave para atraer nuevos miembros a la comunidad. Pídales que suban todo el contenido a `meetup.com`.
+    * **⭐ Evalúe el evento:** esto traerá una mayor visibilidad en `meetup.com` y ayudará como un indicar de éxito.
+    * **🕺 Invite a otros eventos** las comunidades deben crecer juntas, por lo que deben apoyarse mutuamente promoviendo los diferentes eventos.
+    * **🎉 Ir a la afterparty:** una comunidad no está hecha sólo de meetups, así que elija un lugar y hora, y haga saber a todo el mundo que estará allí en caso de que quieran pasar el rato y beber una cerveza.
 
 ## Después del evento
 
-* *✉ Enviar un email de cierre:* agradecer a todos por asistir, compartir algunos números, compartir una foto, y hacer saber cuál es el siguiente paso.
-* *📲 Comentar en meetup.com:* algunas personas no reciben correos electrónicos de meetup.com, así que asegurarse de publicar el correo electrónico con un comentario en el evento.
-* *📱 Compartir en redes sociales:* Share photos and results in social media to attract newcomers
-* *📝 Actualizar información:* Update the all-contributors section, readme.md stats
-* **📇 Make a retrospect List the things that went well, and those that went bad and make sure you fix them before next time
+* **✉ Enviar un email de cierre:** agradecer a todos por asistir, compartir algunos números, compartir una foto, y hacer saber cuál es el siguiente paso.
+* **📲 Comentar en meetup.com:** algunas personas no reciben correos electrónicos de meetup.com, así que asegurarse de publicar el correo electrónico con un comentario en el evento.
+* **📱 Compartir en redes sociales:** Share photos and results in social media to attract newcomers
+* **📝 Actualizar información:** Update the all-contributors section, readme.md stats
+* **📇 Make a retrospect:** List the things that went well, and those that went bad and make sure you fix them before next time
