@@ -59,40 +59,40 @@
 
 * **🤳 Pedir a alguien que tome fotos:** Las fotos son una gran manera de atraer a nuevos miembros a participar, así que asegurese de tomar suficientes fotos durante el evento. 🎥 Los videos también son un gran recurso.
 * 💻 Asegurarse de que el software de grabación esté encendido y funcionando. Mostrar todas las presentaciones desde el ordenador que esté grabando la pantalla.
-* 🎥 Make sure the recording is ready by the time you start the meetup, making sure the lens are correctly set.
-* Make a boomerang
+* 🎥 Asegurarse de que la grabación esté lista para cuando empiece el evento, asegurándose de que la lente este correctamente ajustada.
+* Hacer un efecto boomerang en instagram.
 
 ### Logística
 
-* **🍪 Have someone receive and place the snacks:** Make sure someone is in charge of getting the snacks on time
-* **😇 Talk to the audience often:** Make sure you ask your people if they are feeling ok, if temperature is ok, if they are understanding the contents (it's ok to interrupt the speaker), if there's in anything they want
+* *🍪 Que alguien reciba y coloque los snacks:* asegurarse de que alguien se encargue de conseguir los snacks a tiempo.
+* *😇 Hablar a menudo con el público:* asegurarse de preguntar a la gente si se siente bien, si la temperatura esta bien, si están entendiendo el contenido (está bien interrumpir al orador) y si hay algo que quieran.
 
 ### Secciones de Presentación
 
-* **🐣 Welcome new comers:** Explain what the community is about and little detail and invite them to participate
-* **🔨 Feature your community resources:** Share the community resources with your members, such as website, repository, chat, etc. You want to give them all the chances to participate
-* **👴 Speak slow so everyone can understand 👵**
-* **💰 Thank your sponsors publicly:** Name them and let the members know how are they helping you. Also invite new companies to sponsor.
-* **👦 Remember the audience who you are:** Let the audience connect with you by telling them a little bit about you. Try to say something new every time.
-* **💭 Recap from last meeting:** Let the community know what was learned in the previous meetup so they have a sense of continuity
-* **🔢 Showcase stats:** Numbers say more than words. Let them know how the community is growing and encourage them to support.
-* **📢 Announce improvements:** Name all the issues that have turned into improvements by the community.
-* **⭐ Credit the people that have contributed:** Name publicly and thank those that opened issues, PRs or commented. Given them 🎁 swag (if you have)
-* **📢 Anunciar próximas charlas:** Let your community know what the next talks will be about, and if the speakers are present, make sure you bring to stage so the members can identify them
+* *🐣 Bienvenida a los nuevos:* explicar de qué se trata la comunidad e invítarlos a participar.
+* *🔨 Presente los recursos de la comunidad:* compartir los recursos de la comunidad con sus miembros, como el sitio web, el repositorio, el grupo de chat, etc. Se desea dar a todos la oportunidad de participar.
+* *👴 Hablar lento para que todos puedan entender 👵*
+* *💰 Agradecer públicamente a los patrocinadores:* nombrar y hacer saber a los miembros como estos están ayudando. También invit a nuevas empresas a patrocinar.
+* *👦 Recuerde al público quién es (presentador):* deje que la audiencia se conecte contigo contándoles un poco sobre ti. Intente decir algo nuevo cada vez.
+* *💭 Recapitular el evento anterior:* dejar que la comunidad sepa lo que se aprendió en el evento anterior para que se tenga un sentido de continuidad.
+* *🔢 Estadísticas:* los números dicen más que las palabras. Dar a conocer cómo crece la comunidad y anímar a colaborar.
+* *📢 Anunciar mejoras:* nombrar todos los asuntos/inconvenientes que se han convertido en mejoras por parte de la comunidad.
+* *⭐ Agradecer a quienes han contribuido:* nombrar públicamente y agradecer a aquellos que abrieron issues, PRs o comentaron. Dar SWAG si es posible.
+* *📢 Anunciar próximas charlas:* hacer saber a la comunidad de qué tratarán las próximas charlas, y si los oradores están presentes, asegúrarse de llevarlos al escenario para que los miembros puedan identificarlos.
 
 ### Cierre
 
-* **🕺 Ask your community to:**
-    * **🕺 Help to leave the auditorium clean:** You could do it all by yourself but a hand is always welcome.
-    * **📷 Subir fotos:** Social proof is key to bring new member to the community. Ask them to updload all the content to meetup.com
-    * **⭐ Rate the meetup:** This will bring wider visibility in meetup.com and it will help as an indicator of success
-    * **🕺 Invite members to other meetup's events:** Communities should grow together, so support each other by promoting the different events
-    * **🎉 Come to the afterparty:** A community is not made of meetups only, so pick a place and a time, and let everybody know that you will be there in case ive:**they want to hang out and drink a beer
+* *🕺 Pedir a la comunidad que:*
+    * *🕺 Ayude a mantener el auditorio limpio:* una mano siempre es bienvenida.
+    * *📷 Suba fotos:* la evidencia social es clave para atraer nuevos miembros a la comunidad. Pídales que suban todo el contenido a `meetup.com`.
+    * *⭐ Evalúe el evento:* esto traerá una mayor visibilidad en `meetup.com` y ayudará como un indicar de éxito.
+    * *🕺 Invite a otros eventos* las comunidades deben crecer juntas, por lo que deben apoyarse mutuamente promoviendo los diferentes eventos.
+    * *🎉 Ir a la afterparty:* una comunidad no está hecha sólo de meetups, así que elija un lugar y hora, y haga saber a todo el mundo que estará allí en caso de que quieran pasar el rato y beber una cerveza.
 
 ## Después del evento
 
-* **✉ Enviar un email de cierre:** Thank everybody for attending, share some numbers (such as success rate), share a picture, and let them know what's the next step
-* **📲 Comment on meetup.com:** Some people don't get meetup.com emails so make sure you also post the email as a comment in the event
-* **📱 Compartir en redes sociales:** Share photos and results in social media to attract newcomers
-* **📝 Actualizar información:** Update the `all-contributors` section, `readme.md` stats
+* *✉ Enviar un email de cierre:* agradecer a todos por asistir, compartir algunos números, compartir una foto, y hacer saber cuál es el siguiente paso.
+* *📲 Comentar en meetup.com:* algunas personas no reciben correos electrónicos de meetup.com, así que asegurarse de publicar el correo electrónico con un comentario en el evento.
+* *📱 Compartir en redes sociales:* Share photos and results in social media to attract newcomers
+* *📝 Actualizar información:* Update the all-contributors section, readme.md stats
 * **📇 Make a retrospect List the things that went well, and those that went bad and make sure you fix them before next time
