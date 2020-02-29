@@ -2,45 +2,44 @@
 
 ## Cada día/cada dos días
 
-* **👀 Comprobar la actividad de todos los problemas sin resolver:** Make sure there are no blockers and all of them are updated.
-* **🤳 Revisar Slack:** Responder comentarios o preguntas de la comunidad.
-* **👮 Comprobar el progreso de las charlas:** Recordar a los oradores que envíen las diapositivas y completen cualquier otra información faltante.
+* **🤳 Revisar Slack:** responder comentarios o preguntas de la comunidad.
+* **👮 Comprobar el progreso de las charlas:** recordar a los oradores enviar las diapositivas y completar cualquier otra información faltante.
 
 ## Antes del evento
 
 ### General
 
-* **📆 Seleccionar una fecha:** Asegurarse que no haya otros eventos en paralelo (como la final de la UEFA Champions League 😅).
-* **🏢 Reservar el lugar:** Asegurarse que los patrocinadores tengan el lugar preparado y reservado.
-* **🎁 Conseguir SWAG:** Pedirle a tu patrocinador de SWAG regalos para tu próximo meetup.
-* **📝 Información del evento:** Incluya esta información en la descripción de su evento para el meetup.
-    * **🏢 Ubicación específica:** La dirección, un Google Maps, el nombre del lugar y las indicaciones de cómo llegar son importantes.
-    * **📚 Lecturas opcionales:** Pequeños artículos o videos de Youtube que sirvan de introducción a los temas que expondran los oradores.
-    * **🚲 Estacionamiento:** Hacer saber a los asistentes si el lugar ofrece estacionamiento o lugares para dejar sus bicicletas.
-    * **📝 Formulario de Inscripción:** To get a real insight of the number of people that is attending with these fields:
+* **📆 Seleccionar una fecha:** asegurar que no haya otros eventos en paralelo (como la final de la UEFA 😅).
+* **🏢 Reservar el lugar:** asegurar que los patrocinadores tengan el lugar reservado y preparado.
+* **🎁 Conseguir SWAG:** pedir al patrocinador correspondiente los regalos para el próximo meetup.
+* **📝 Información del evento:** incluir esta información en la descripción del evento.
+    * **🏢 Ubicación:** la dirección, referencia en Google Maps, nombre del lugar e indicaciones de cómo llegar son importantes.
+    * **📚 Lecturas opcionales:** pequeños artículos o videos en Youtube que sirvan de introducción a los temas que expondrán los oradores.
+    * **🚲 Estacionamiento:** hacer saber a los asistentes si el lugar ofrece estacionamiento o parking para bicicletas.
+    * **📝 Formulario de Inscripción:** para tener una idea del número real de personas que asisten con los siguientes campos:
     * **👉 Nombre Completo**
-    * **💳 ID:** En caso que el acceso a las instalaciones lo requiera.
-    * **📧 Email:** Para enviarles un correo electrónico con sus respuestas.
-    * **🍎 Condiciones de Comida:** De esta manera puedes saber quién es vegetariano, vegano o alérgico a algún alimento.
-    * **♿ Necesidades de Accesibilidad**
+    * **💳 ID:** en caso que el acceso a las instalaciones lo requiera.
+    * **📧 Email:** para mantenerlos informados de próximas actividades.
+    * **🍎 Condiciones de Comida:** permite saber quién es vegetariano, vegano o alérgico a algún alimento.
+    * **♿ Necesidades de Accesibilidad:** con el fin de construir un ambiente inclusivo.
 
 ### Logística
 
-* **🏢 Visitar el lugar antes del evento:** Asegurarse de que todo funciona y se ajusta a las necesidades del evento.
-* **🔧 Comprender aspectos técnicos de su auditorio:** Ask if you will have a technical assistant during the event, otherwise make sure you know how to handle all the technical difficulties you may encounter (wifi, sound, amplification, AC, projection, lights, microphone, keys to open the room, etc)
-* **🎤 Get a wearable microphone:** Having your speaker write code and hold the microphone at the same time is tricky. Do your best to get a microphone that can be wore
-* **🕴 Conseguir suficientes sillas:** Make sure you have plenty of chairs, you don't want to have people standing during your event
-* **🍪 Tener un lugar para los snacks:** You will need a table, a few garbage cans and enough space for people to spare
-* **🔌 Enchufes de Corriente:** Make sure there are enough power outlets near the stage, otherwise get an extension to be able to plug the presenter's laptop
-* **📺 Puertos de Proyección:** Ask your speaker about technical requirements, hopefully VGA and HDMI should be enough, otherwise find a way to get the proper converter
+* **🏢 Visitar el lugar antes del evento:** asegurar de que todo funcione y se ajuste a las necesidades del evento.
+* **🔧 Comprender aspectos técnicos de su auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que puede encontrar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
+* **🎤 Conseguir un micrófono inálambrico:** hacer que el orador escriba código y sostenga el micrófono es difícil. Hacer lo posible por conseguir un micrófono que se pueda sostener o fijar en alguna parte.
+* **🕴 Conseguir suficientes sillas:** asegurar muchas sillas. No se quiere que la gente este de pie durante el evento.
+* **🍪 Tener un lugar para los snacks:** es necesario un mesa, botes de basura y suficiente espacio para la gente.
+* **🔌 Enchufes:** asegurar que haya suficientes enchufes cerca del escenario, de lo contrario conseguir un alargador.
+* **📺 Puertos de Proyección:** preguntar a los oradores sobre los requisitos técnicos, con VGA y HDMI debería ser suficiente, de lo contrario encontrar una manera de conseguir el adaptador adecuado.
 
 ### Charlas
 
-* **🤓 Validate your speaker's slides:** Not all experts know how to share their knowledge. Ask your speakers to submit their presentations before the event. Speakers must submit ther presentation online, as well as the code they are pretending to show (CodePen, JSFiddler, Stackblitz or Plunker), so everything can be screened from the same laptop
-* **👄 Support other languages if applies:** Make room for a 10 minute talk in another language to motivate the community to learn and practice
-* **♿️ Hacer que sus contenidos sean accesibles:** Make sure sure all the contents of the next meetup are accessible for people with disabilities
-* **🤵 Encontrar un speaker internacional:** Have someone from another country to speak for 10-15 minutes in a Hangout
-* **⏰ Non-practical talks should be short:** Talks with no practical content can make people get bored, make sure those are short (up to 30 minutes).
+* **🤓 Validar las diapositivas de los oradores** no todos los expertos saben como compartir sus conocimientos. Ofrecer a los oradores presentar el contenido antes del evento. Los oradores deben enviar su presentación, así como el código que pretenden mostrar (CodePen, JSFiddler, Stackblitz o Plunker), para que todo pueda ser revisado desde el mismo portatil.
+* **👄 Apoyo a otros idiomas (si aplica):**  hacer espacio para una charla de 10 minutos en otro idioma con el fin de motivar a la comunidad a aprender y prácticar.
+* **♿️ Hacer que los contenidos sean accesibles:** asegurar de que todos los contenidos de la próxima reunión sean accesibles para las personas con discapacidades.
+* **🤵 Encontrar un speaker internacional:** tener a alguien de otro país para hablar durante 10-15 minutos en Hangouts.
+* **⏰ Charlas no prácticas deben ser cortas:** las charlas sin contenido práctico pueden hacer que la gente se aburra. Asegurarse de que sean cortas (hasta 30 minutos).
 
 ### Workshops (For VIP Workshops only)
 
@@ -88,7 +87,7 @@
     * **📷 Subir fotos:** Social proof is key to bring new member to the community. Ask them to updload all the content to meetup.com
     * **⭐ Rate the meetup:** This will bring wider visibility in meetup.com and it will help as an indicator of success
     * **🕺 Invite members to other meetup's events:** Communities should grow together, so support each other by promoting the different events
-    * **🎉 Come to the afterparty:** A community is not made of meetups only, so pick a place and a time, and let everybody know that you will be there in case they want to hang out and drink a beer
+    * **🎉 Come to the afterparty:** A community is not made of meetups only, so pick a place and a time, and let everybody know that you will be there in case ive:**they want to hang out and drink a beer
 
 ## Después del evento
 
@@ -96,4 +95,4 @@
 * **📲 Comment on meetup.com:** Some people don't get meetup.com emails so make sure you also post the email as a comment in the event
 * **📱 Compartir en redes sociales:** Share photos and results in social media to attract newcomers
 * **📝 Actualizar información:** Update the `all-contributors` section, `readme.md` stats
-* **📇 Make a retrospective:** List the things that went well, and those that went bad and make sure you fix them before next time
+* **📇 Make a retrospect List the things that went well, and those that went bad and make sure you fix them before next time
