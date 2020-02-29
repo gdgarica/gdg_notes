@@ -9,23 +9,23 @@
 
 ### General
 
-* **📆 Seleccionar una fecha:** asegurar que no haya otros eventos en paralelo (como la final de la UEFA 😅).
-* **🏢 Reservar el lugar:** asegurar que los patrocinadores tengan el lugar reservado y preparado.
+* **📆 Seleccionar una fecha:** asegurarse que no haya otros eventos en paralelo (como la final de la UEFA 😅).
+* **🏢 Reservar el lugar:** asegurarse que los patrocinadores tengan el lugar reservado y preparado.
 * **🎁 Conseguir SWAG:** pedir al patrocinador correspondiente los regalos para el próximo meetup.
 * **📝 Información del evento:** incluir esta información en la descripción del evento.
     * **🏢 Ubicación:** la dirección, referencia en Google Maps, nombre del lugar e indicaciones de cómo llegar son importantes.
     * **📚 Lecturas opcionales:** pequeños artículos o videos en Youtube que sirvan de introducción a los temas que expondrán los oradores.
     * **🚲 Estacionamiento:** hacer saber a los asistentes si el lugar ofrece estacionamiento o parking para bicicletas.
-    * **📝 Formulario de Inscripción:** para tener una idea del número real de personas que asisten con los siguientes campos:
+    * **📝 Formulario de Inscripción:** para tener una idea del número real de personas que asistirán. Lleva los siguientes campos:
     * **👉 Nombre Completo**
-    * **💳 ID:** en caso que el acceso a las instalaciones lo requiera.
+    * **💳 RUT:** en caso que el acceso a las instalaciones lo requiera.
     * **📧 Email:** para mantenerlos informados de próximas actividades.
     * **🍎 Condiciones de Comida:** permite saber quién es vegetariano, vegano o alérgico a algún alimento.
     * **♿ Necesidades de Accesibilidad:** con el fin de construir un ambiente inclusivo.
 
 ### Logística
 
-* **🏢 Visitar el lugar antes del evento:** asegurar de que todo funcione y se ajuste a las necesidades del evento.
+* **🏢 Visitar el lugar antes del evento:** asegurarse de que todo funcione y se ajuste a las necesidades del evento.
 * **🔧 Comprender aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que pueda encontrar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
 * **🎤 Conseguir un micrófono inálambrico:** hacer que el orador escriba código y sostenga el micrófono es difícil. Hacer lo posible por conseguir un micrófono que se pueda sostener o fijar en alguna parte.
 * **🕴 Conseguir suficientes sillas:** asegurar muchas sillas. No se quiere que la gente este de pie durante el evento.
