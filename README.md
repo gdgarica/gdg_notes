@@ -155,14 +155,13 @@ Existen diversas formas de aportar a la comunidad.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-<h1 align="center"> ️🤝 Patrocinadores 🤝 </h1>
+# Patrocinadores 🤝
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
-  </a>
-  <br>
-  <a>
-    <img height="80px" src="https://i.imgur.com/tb5qdu0.png">
-  </a>
-</div>
+
+<a href="#" target="_blank">
+  <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
+</a>
+<br>
+<a>
+  <img height="80px" src="https://i.imgur.com/tb5qdu0.png">
+</a>
