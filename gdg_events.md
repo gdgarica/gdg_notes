@@ -20,9 +20,10 @@ Opciones que proporciona Google a los organizadores.
 
 # Google Cloud Next
 
-<img src="https://i.imgur.com/nNX5TIJ.jpg">
-<img src="https://i.imgur.com/n4Hl3Jx.jpg">
 <img src="https://i.imgur.com/SQplmBB.png">
+<img src="https://i.imgur.com/n4Hl3Jx.jpg">
+<img src="https://i.imgur.com/zGQDDoP.png">
+
 
 
 # Cloud Hero
