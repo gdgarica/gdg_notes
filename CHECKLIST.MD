@@ -26,38 +26,38 @@
 ### Logística
 
 * **🏢 Visitar el lugar antes del evento:** asegurarse de que todo funcione y se ajuste a las necesidades del evento.
-* **🔧 Comprender aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que se puedan presentar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
+* **🔧 Comprender los aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que se puedan presentar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
 * **🎤 Conseguir un micrófono inálambrico:** hacer que el orador escriba código y sostenga el micrófono es difícil. Hacer lo posible por conseguir un micrófono que se pueda fijar en alguna parte.
-* **🕴 Conseguir suficientes sillas:** asegurar muchas sillas. No se quiere que la gente este de pie durante el evento.
+* **🕴 Conseguir suficientes sillas:** no se quiere que la gente este de pie durante el evento.
 * **🍪 Tener un lugar para los snacks:** es necesario un mesa, botes de basura y suficiente espacio para la gente.
-* **🔌 Enchufes:** asegurarse que haya suficientes enchufes cerca del escenario, de lo contrario conseguir un alargador.
-* **📺 Puertos de Proyección:** preguntar a los oradores sobre los requisitos técnicos. Con VGA y HDMI debería ser suficiente, de lo contrario encontrar una manera de conseguir el adaptador adecuado.
+* **🔌 Enchufes:** asegurarse de que hayan suficientes enchufes cerca del escenario, de lo contrario conseguir un alargador.
+* **📺 Puertos de Proyección:** preguntar a los oradores sobre los requisitos técnicos. Con VGA y HDMI debiese ser suficiente, de lo contrario encontrar una manera de conseguir el adaptador adecuado.
 
 ### Charlas
 
 * **🤓 Validar las diapositivas de los oradores** no todos los expertos saben como compartir sus conocimientos. Ofrecer a los oradores presentar el contenido antes del evento. Los oradores deben enviar su presentación, así como el código que pretenden mostrar (CodePen, JSFiddler, Stackblitz o Plunker), para que todo pueda ser revisado desde el mismo portatil.
 * **👄 Apoyo a otros idiomas (si aplica):**  hacer espacio para una charla de 10 minutos en otro idioma con el fin de motivar a la comunidad a prácticar y aprender.
-* **♿️ Hacer que los contenidos sean accesibles:** asegurarse de que todos los contenidos de la próxima reunión sean accesibles para personas con discapacidades.
-* **🤵 Encontrar un speaker internacional:** tener a alguien de otro país para hablar durante 10-15 minutos en Hangouts.
-* **⏰ Charlas no prácticas deben ser cortas:** las charlas sin contenido práctico pueden hacer que la gente se aburra. Asegurarse de que sean cortas (hasta 30 minutos).
+* **♿️ Hacer que los contenidos sean accesibles:** asegurarse de que los contenidos del próximo evento sean accesibles para personas con discapacidades.
+* **🤵 Encontrar un speaker internacional:** tener a alguien de otro país para hablar durante 10-15 minutos vía Hangouts.
+* **⏰ Charlas no prácticas deben ser cortas:** las charlas sin contenido práctico pueden aburrir a la gente. Asegurarse de que sean cortas (hasta 30 minutos).
 
 ### Workshops (solo para Workshops VIP)
 
 * 💾 Para los ejercicios prácticos explicar en detalle qué herramientas deben ser instaladas previamente.
-* 📁 Crear un documento con la configuración del ambiente para que los asistentes vengan con todas las herramientas instaladas y listas.
-* 🤳 Testear el taller la misma semana del evento, así podrá reducir las posibilidades de que algo falle debido a alguna actualización de dependencia.
+* 📁 Crear un documento con la configuración del ambiente para que los asistentes se presenten con las herramientas instaladas y listas.
+* 🤳 Testear el taller la misma semana del evento, así se podrá reducir las posibilidades de que algo falle debido a alguna actualización de dependencia.
 * 💾 Testear el taller en diferentes SO, así sabrá que hacer cuando se presente algún inconveniente.
-* 👴 Preparar el taller con alguien que no sepa nada del tema, así se podrá validar la forma en que da el taller.
+* 👴 Preparar el taller con alguien que no sepa nada del tema, así se podrá validar la forma en que imparte el taller.
 * 📦 Crear un repositorio que contenga todo el código que se escribirá durante el taller. La creación de ramas que denoten cada paso facilita a los asistentes comprender las diferencias entre los pasos.
 * 📝 Poner cada paso del proceso en las diapositivas, eso facilita el seguimiento del taller.
-* 👨‍👩‍👧‍👦  Pedir ayuda a los miembros de la comunidad antes del taller. Deberían servir como apoyo cuando alguno de los asistentes se atasque en el proceso. Deben ser contactados al menos dos semanas antes del evento, para que puedan estudiar los contenidos y estar listos para apoyar.
-* 🔌 Asegurarse de tener suficientes enchufes para los asistentes al evento.
+* 👨‍👩‍👧‍👦  Pedir ayuda a los miembros de la comunidad antes del taller. Pueden servir como apoyo cuando alguno de los asistentes se atasque en el proceso. Deben ser contactados al menos dos semanas antes del evento, para que puedan estudiar los contenidos y estar listos para brindar apoyo.
+* 🔌 Asegurarse de tener suficientes enchufes para los asistentes del evento.
 
 ## Durante el evento
 
 ### Registro Visual
 
-* **🤳 Pedir a algún profesional que tome fotos:** Las fotos son una gran manera de atraer a nuevos miembros a participar, así que asegurese de tomar suficientes fotos durante el evento. 🎥 El video también es un gran recurso.
+* **🤳 Pedir a alguien que tome fotos:** Las fotos son una gran manera de atraer a nuevos miembros a participar, así que asegurese de tomar suficientes fotos durante el evento. 🎥 Los videos también son un gran recurso.
 * 💻 Asegurese de que el software de grabación esté encendido y funcionando. Muestrar todas las presentaciones desde el ordenador que está grabando la pantalla.
 * 🎥 Make sure the recording is ready by the time you start the meetup, making sure the lens are correctly set.
 * Make a boomerang
