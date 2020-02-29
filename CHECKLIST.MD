@@ -26,7 +26,7 @@
 ### Logística
 
 * **🏢 Visitar el lugar antes del evento:** asegurarse de que todo funcione y se ajuste a las necesidades del evento.
-* **🔧 Comprender aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que pueda encontrar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
+* **🔧 Comprender aspectos técnicos del auditorio:** preguntar si habrá algún asistente técnico durante el evento, de lo contrario asegurarse de saber manejar todas las dificultades técnicas que se puedan presentar (wifi, sonido, amplificación, proyección, micrófonos, llaves de acceso, entre otros).
 * **🎤 Conseguir un micrófono inálambrico:** hacer que el orador escriba código y sostenga el micrófono es difícil. Hacer lo posible por conseguir un micrófono que se pueda fijar en alguna parte.
 * **🕴 Conseguir suficientes sillas:** asegurar muchas sillas. No se quiere que la gente este de pie durante el evento.
 * **🍪 Tener un lugar para los snacks:** es necesario un mesa, botes de basura y suficiente espacio para la gente.
