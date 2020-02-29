@@ -45,7 +45,7 @@
     <span> | </span>
     <a href="https://twitter.com/gdg_arica">Twitter</a>
     <span> | </span>
-    <a href="#">WhatsApp</a>
+    <a href="http://bit.ly/gdgarica_whatsapp">WhatsApp</a>
     <span> | </span>
     <a href="http://bit.ly/slack_gdgarica">Slack</a>
   </h3>
