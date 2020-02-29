@@ -96,3 +96,7 @@
 * **📱 Compartir en redes sociales:** Share photos and results in social media to attract newcomers
 * **📝 Actualizar información:** Update the all-contributors section, readme.md stats
 * **📇 Make a retrospect:** List the things that went well, and those that went bad and make sure you fix them before next time
+
+## Referencia
+
++ [Angular Medellín Checklist](https://github.com/javebratt/angular-medellin/blob/master/assets/CHECKLIST.md)
