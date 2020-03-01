@@ -133,6 +133,26 @@ Algunos de estos eventos tienen un costo de entrada bastante alto para el públi
 
 # 2. Guía General
 
+## Agrenda tu charla
+
+Todos los temas del ámbito digital y tecnológico son bienvenidos, no importa el nivel, sólo completa el siguiente formulario.
+
++ Título de la charla.
++ Nombre del expositor@.
++ Breve reseña sobre el expositor@ (acreditaciones, experiencia, etc).
++ Foto de perfil del expositor@.
++ Red social (de preferencia twitter).
++ Video del expositor@ explicando quién es y de qué trata su charla (opcional).
++ Formato de la charla: 
+  + keynote (20 - 25 min).
+  + lightning talk (5 - 10 min).
+
+  ---
+  + lightning 10 min
+  corta 20 min
+  larga 40 min
+  principal 60 min.
+
 # 3. Guía para Organizadores
 
 Si eres organizador de la comunidad GDG Arica te recomendamos leer la siguiente [guía](#).

@@ -4,7 +4,13 @@
 + Twitter: [@jsconfcl](https://twitter.com/jsconfcl)
 + Fecha:
 + Lugar: Santiago.
-+ Valor entrada: 
++ Valor entrada:
+
+## JS Conf Colombia
++ Twitter: [@jsconfco](https://twitter.com/jsconfco)
++ Fecha: 
++ Lugar: Medellín.
++ Valor entrada:
 
 ## NG Conf 
 + Twitter: [@ngconf](https://twitter.com/ngconf)
