@@ -15,6 +15,15 @@
 - [ ] Taller.
 - [ ] Study Jam.
 
+```bash
+## Ideas de Keynotes
++ Instalación de Angular CLI: Muchas personas aun no saben como instalar el tooling necesario para poder empezar.
++ Uso de Stackblitz: Se usa mucho actualmente para pruebas de concepto o compartir código. Sería útil saber como se maneja.
++ Uso de extensiones de navegador (Ej: Augury) para trabajar con Angular
++ Experiencia desarrollando algún sistema: Contar alguna experiencia de trabajo usando Angular. Cuales fueron las dificultades que enfrentaste y como las resolviste.
++ Como usar HttpClient para comunicarse con una API: Muchas personas aun no saben como hacer llamadas a APIS. Estaría interesante abordar este tema
+```
+
 ## 2. ¿Cuál es la modalidad de tu presentación?
 - [ ] Presencial.
 - [ ] Remota.
@@ -83,16 +92,6 @@ La idea es que resuma la idea central de tu presentación.
 ```bash
 ## Ejemplo
 + Me encantaría estar en la agenda a partir de la segunda semana noviembre.
-```
-
----
-Adicionalmente dejámos algunas ideas de Keynotes:
-```
-- Instalación de Angular CLI: Muchas personas aun no saben como instalar el tooling necesario para poder empezar.
-- Uso de Stackblitz: Se usa mucho actualmente para pruebas de concepto o compartir código. Sería útil saber como se maneja.
-- Uso de extensiones de navegador (Ej: Augury) para trabajar con Angular
-- Experiencia desarrollando algún sistema: Contar alguna experiencia de trabajo usando Angular. Cuales fueron las dificultades que enfrentaste y como las resolviste.
-- Como usar HttpClient para comunicarse con una API: Muchas personas aun no saben como hacer llamadas a APIS. Estaría interesante abordar este tema
 ```
 ---
 <p align="center">Muchas Gracias! El equipo GDG Arica ❤</p>
