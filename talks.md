@@ -20,8 +20,9 @@
 - [ ] Remota.
 
 ## 3. Indícanos tu timezone (solo si la modalidad es **remota**)
-```
-Bogota (GMT-5)
+```bash
+## Ejemplo
++ Bogota (GMT-5)
 ```
 
 ## 4. ¿Cuál es tu nombre?
@@ -33,7 +34,8 @@ Bogota (GMT-5)
 ## 7. ¿Cuál es el título de tu charla?
 
 La idea es que resuma la idea central de tu presentación.
-```
+```bash
+## Ejemplo
 + Closures v/s Clases, la batalla final.
 + 10 Features de ES7 que tienes que conocer, (la número 4 te dejará llorando).
 + Introducción al desarrollo con ReactJS.
@@ -44,29 +46,26 @@ La idea es que resuma la idea central de tu presentación.
 
 ## 8. Danos una descripción de tu charla (50 palabras máximo)
 
+```bash
+## Ejemplo
++ Hablaremos sobre las formas de manejo de ingreso de información en Angular: Template Forms y Reactive Forms. Abordaremos los detalles de uso de Reactive Forms, sus características, beneficios, validaciones y qué debemos tener presente.
++ Hablaremos sobre arquitectura, patrones de diseño, recomendaciones del Angular Style Guide, que funciona y que no, como tomar decisiones de diseño, entre otros.
 ```
-Hablaremos sobre las formas de manejo de ingreso de información en Angular: Template Forms y Reactive Forms. Abordaremos los detalles de uso de Reactive Forms, sus características, beneficios, validaciones y qué debemos tener presente.
-```
-```
-Hablaremos sobre arquitectura, patrones de diseño, recomendaciones del Angular Style Guide, que funciona y que no, como tomar decisiones de diseño, entre otros.
-```
-
-
 
 ## 9. ¿Tienes alguna red social donde podamos contactarte? (de preferencia twitter) 
 
-```
-Twitter: @floxcristian
-```
-```
-Twitter, Github, Facebook e Instagram: @mayrascript
+```bash
+## Ejemplo
++ Twitter: @floxcristian
++ Twitter, Github, Facebook e Instagram: @mayrascript
 ```
 
 
 ## 10. ¿Representas a alguna compañía o empresa?
 
-```
-Trabajo como Senior Web Engineer en MerlinJobs y Founder de @Rovistack.
+```bash
+## Ejemplo
++ Trabajo como Senior Web Engineer en MerlinJobs y Founder de @Rovistack.
 ```
 
 
@@ -81,8 +80,9 @@ Trabajo como Senior Web Engineer en MerlinJobs y Founder de @Rovistack.
 - [ ] Otro (especificar).
 
 ## 13. ¿Quieres agregar algo más?
-```
-Me encantaría estar en la agenda a partir de la segunda semana noviembre :)
+```bash
+## Ejemplo
++ Me encantaría estar en la agenda a partir de la segunda semana noviembre.
 ```
 
 ---
