@@ -75,7 +75,7 @@ Los Google Developer Groups (GDGs) son entidades sin ánimo de lucro creadas con
 
 GDG es una comunidad mundial interesada en aprender, usar y promover múltiples tecnologías mediante la realización de diversas actividades centradas en el contenido técnico educativo.
 
-Actualmente existen más de 1.000 comunidades o capítulos alrededor del mundo. GDG Arica es una de estas.
+Actualmente existen más de 1.000 comunidades o capítulos alrededor del mundo. GDG Arica es una de ellas.
 
 
 
@@ -97,7 +97,8 @@ Algunos de los tipos de actividades que desarrollamos como comunidad son:
 + Meetups (charlas)
 + Workshops (talleres)
 + Study Jams
-+ Dev Fest (conferencias)
++ Devfest (conferencias)
++ Hackatons
 + Concursos
 
 Más información sobre los tipos de eventos que realizamos [aquí](#).
@@ -114,9 +115,9 @@ Google ofrece apoyo económico para ciertos eventos como:
 + Cloud Study Jam
 + International Woman Day (IWD)
 + Google IO Extended
-+ Devfests
++ Devfest
 
-En la mayoría de los casos el sponsor llega a 500USD, excepto en el caso de los Devfest que puede resultar en un monto mayor.
+En la mayoría de los casos el sponsor llega a 500 USD, excepto en el caso de los Devfest que puede resultar en un monto mayor.
 
 ### Speakers internacionales
 
@@ -169,7 +170,7 @@ Existen diversas formas de aportar a la comunidad.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars1.githubusercontent.com/u/823388" width="100px;"/><br /><sub><b>Álvaro Márquez</b></sub>](https://github.com/altvaro)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br /> | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br /> |
+| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars1.githubusercontent.com/u/823388" width="100px;"/><br /><sub><b>Álvaro Márquez</b></sub>](https://github.com/altvaro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
@@ -177,11 +178,12 @@ Existen diversas formas de aportar a la comunidad.
 
 # Patrocinadores 🤝
 
-
-<a href="#" target="_blank">
-  <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
-</a>
-<br>
-<a>
-  <img height="80px" src="https://i.imgur.com/tb5qdu0.png">
-</a>
+<div align="center">
+  <a href="#" target="_blank">
+    <img height="120px" src="https://i.imgur.com/LJob2uc.jpg">
+  </a>
+  <br>
+  <a>
+    <img height="80px" src="https://i.imgur.com/tb5qdu0.png">
+  </a>
+<div>

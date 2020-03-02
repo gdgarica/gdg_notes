@@ -3,23 +3,23 @@
 > Antes de suscribir una charla, recuerda revísarla para ver si estamos en la misma onda. 😊
 
 
-1. ## ¿Qué tipo de presentación quieres hacer?
+## 1. ¿Qué tipo de presentación quieres hacer?
 
 - [ ] Lightning Talk (5-10 minutos max)
 - [ ] Keynote (25-30 minutos max)
 - [ ] Avisos de trabajo / comunidades / actividades / ETC.
 
-2. ## ¿Cuál es la modalidad de tu presentación?
+## 2. ¿Cuál es la modalidad de tu presentación?
 - [ ] Presencial.
 - [ ] Remota.
 
-3. ## (Opcional solo si modalidad es **remota**) Indícanos tu timezone:
+## 3. (Opcional solo si modalidad es **remota**) Indícanos tu timezone:
 
 
-4. ## ¿Cuál es tu nombre?
+## 4. ¿Cuál es tu nombre?
 
 
-5. ## ¿Cuál es el título de tu charla?
+## 5. ¿Cuál es el título de tu charla?
 <!-- La idea es que resuma la idea central de tu presentación.
 Algo como:
 'Closures v/s Clases, la batalla final'
@@ -28,7 +28,7 @@ Algo como:
  -->
 
 
-6. ## Danos una descripción de tu charla (50 palabras máximo)
+## 6. Danos una descripción de tu charla (50 palabras máximo)
 Ejemplo: 
 
 
