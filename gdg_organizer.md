@@ -1,10 +1,10 @@
-<h1>Guía para organizadores de la Comunidad</h1>
+<h1 align="center">Guía para organizadores de la Comunidad</h1>
 
 # Reuniones GDG Arica
 
 Las reuniones de planificación podrán ser realizadas de dos formas.
 + Presencial
-+ Videollamada
++ Videollamada (Google Hangouts/Meet)
 
 # Reuniones GDG Latam
 

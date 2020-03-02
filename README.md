@@ -170,7 +170,7 @@ Existen diversas formas de aportar a la comunidad.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars1.githubusercontent.com/u/823388" width="100px;"/><br /><sub><b>Álvaro Márquez</b></sub>](https://github.com/altvaro)<br /> | | |
+| [<img src="https://avatars0.githubusercontent.com/u/28737734" width="100px;"/><br /><sub><b>Cristian Flores</b></sub>](https://twitter.com/floxcristian)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9019172" width="100px;"/><br /><sub><b>Mauricio Sánchez</b></sub>](https://github.com/von-maurus)<br /> | [<img src="https://avatars1.githubusercontent.com/u/823388" width="100px;"/><br /><sub><b>Álvaro Márquez</b></sub>](https://github.com/altvaro)<br /> | - | - | - | - |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->

@@ -34,7 +34,7 @@ Algo como:
 Ejemplo: 
 
 
-## 7. ¿Tienes alguna red social donde podamos contactarte? (de prefenrencia twitter) 
+## 7. ¿Tienes alguna red social donde podamos contactarte? (de preferencia twitter) 
 
 
 ## 8. ¿Representas a alguna compañía o empresa?
