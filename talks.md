@@ -2,8 +2,8 @@
 
 <p align="center">Todos los temas del ámbito digital y tecnológico son bienvenidos, no importa el nivel.</p>
 
-> Nuestros eventos se rigen por el siguiente [Código de conducta](https://github.com/gdgarica/code_of_conduct).
-> Antes de suscribir una charla, recuerda revísarla para ver si estamos en la misma onda. 😊
+> + Nuestros eventos se rigen por el siguiente [Código de conducta](https://github.com/gdgarica/code_of_conduct).
+> + Antes de suscribir una charla, recuerda revísarla para ver si estamos en la misma onda. 😊
 
 ---
 
@@ -11,7 +11,7 @@
 
 - [ ] Lightning Talk (5-10 minutos max).
 - [ ] Keynote (25-30 minutos max).
-- [ ] Avisos de trabajo / comunidades / actividades / etc.
+- [ ] Avisos de trabajo/comunidades/actividades/etc.
 - [ ] Taller.
 - [ ] Study Jam.
 
@@ -45,18 +45,17 @@ Ejemplo:
 
 ## 10. ¿Representas a alguna compañía o empresa?
 
-+ Video del expositor@ explicando quién es y de qué trata su charla (opcional).
+## 11. Video del expositor@ explicando quién es y de qué trata su charla (opcional).
 
-## 11. ¿Qué tipo de conector tiene tu notebook?
+## 12. ¿Qué tipo de conector tiene tu notebook?
 
 - [ ] HDMI
 - [ ] Mini DisplayPort
 - [ ] VGA
 - [ ] USB-C
 
-## 12. ¿Quieres agregar algo más?
+## 13. ¿Quieres agregar algo más?
 
 ---
+<p align="center">Muchas Gracias! El equipo GDG Arica ❤</p>
 
-> Muchas Gracias! 
-> El equipo GDG Arica ❤
