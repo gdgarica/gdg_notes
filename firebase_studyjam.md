@@ -1,5 +1,7 @@
 <h1 align="center">Firebase Study Jam</h1>
 
+<p align="center"></p>
+
 # 1. ¿Qué es un Study Jam?
 
 ## Un evento comunitario
